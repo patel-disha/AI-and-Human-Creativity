@@ -1,0 +1,398 @@
+﻿TY  - JOUR
+AU  - Anantrasirichai, N
+AU  - Bull, D
+TI  - Artificial intelligence in the creative industries: a review
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+AB  - This paper reviews the current state of the art in artificial intelligence (AI) technologies and applications in the context of the creative industries. A brief background of AI, and specifically machine learning (ML) algorithms, is provided including convolutional neural networks (CNNs), generative adversarial networks (GANs), recurrent neural networks (RNNs) and deep Reinforcement Learning (DRL). We categorize creative applications into five groups, related to how AI technologies are used: (i) content creation, (ii) information analysis, (iii) content enhancement and post production workflows, (iv) information extraction and enhancement, and (v) data compression. We critically examine the successes and limitations of this rapidly advancing technology in each of these areas. We further differentiate between the use of AI as a creative tool and its potential as a creator in its own right. We foresee that, in the near future, ML-based AI will be adopted widely as a tool or collaborative assistant for creativity. In contrast, we observe that the successes of ML in domains with fewer constraints, where AI is the 'creator', remain modest. The potential of AI (or its developers) to win awards for its original creations in competition with human creatives is also limited, based on contemporary technologies. We therefore conclude that, in the context of creative industries, maximum benefit from AI will be derived where its focus is human-centric-where it is designed to augment, rather than replace, human creativity.
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - JAN
+PY  - 2022
+VL  - 55
+IS  - 1
+SP  - 589
+EP  - 656
+DO  - 10.1007/s10462-021-10039-7
+C6  - JUL 2021
+AN  - WOS:000668818400001
+ER  -
+
+TY  - JOUR
+AU  - Peeters, MMM
+AU  - van Diggelen, J
+AU  - van den Bosch, K
+AU  - Bronkhorst, A
+AU  - Neerincx, MA
+AU  - Schraagen, JM
+AU  - Raaijmakers, S
+TI  - Hybrid collective intelligence in a human-AI society
+T2  - AI & SOCIETY
+AB  - Within current debates about the future impact of Artificial Intelligence (AI) on human society, roughly three different perspectives can be recognised: (1) thetechnology-centric perspective, claiming that AI will soon outperform humankind in all areas, and that the primary threat for humankind is superintelligence; (2) thehuman-centric perspective, claiming that humans will always remain superior to AI when it comes to social and societal aspects, and that the main threat of AI is that humankind's social nature is overlooked in technological designs; and (3)the collective intelligence-centric perspective, claiming that true intelligence lies in the collective of intelligent agents, both human and artificial, and that the main threat for humankind is that technological designs create problems at the collective, systemic level that are hard to oversee and control. The current paper offers the following contributions: (a) a clear description for each of the three perspectives, along with their history and background; (b) an analysis and interpretation of current applications of AI in human society according to each of the three perspectives, thereby disentangling miscommunication in the debate concerning threats of AI; and (c) a new integrated and comprehensive research design framework that addresses all aspects of the above three perspectives, and includes principles that support developers to reflect and anticipate upon potential effects of AI in society.
+SN  - 0951-5666
+SN  - 1435-5655
+DA  - MAR
+PY  - 2021
+VL  - 36
+IS  - 1
+SP  - 217
+EP  - 238
+DO  - 10.1007/s00146-020-01005-y
+C6  - JUN 2020
+AN  - WOS:000543276200001
+ER  -
+
+TY  - JOUR
+AU  - Laguarta, J
+AU  - Hueto, F
+AU  - Subirana, B
+TI  - COVID-19 Artificial Intelligence Diagnosis Using Only Cough Recordings
+T2  - IEEE OPEN JOURNAL OF ENGINEERING IN MEDICINE AND BIOLOGY
+AB  - Goal: We hypothesized that COVID-19 subjects, especially including asymptomatics, could be accurately discriminated only from a forced-cough cell phone recording using Artificial Intelligence. To train our MIT Open Voice model we built a data collection pipeline of COVID-19 cough recordings through our website (opensigma.mit.edu) between April and May 2020 and created the largest audio COVID-19 cough balanced dataset reported to date with 5,320 subjects. Methods: We developed an AI speech processing framework that leverages acoustic biomarker feature extractors to pre-screen for COVID-19 from cough recordings, and provide a personalized patient saliency map to longitudinally monitor patients in real-time, non-invasively, and at essentially zero variable cost. Cough recordings are transformed with Mel Frequency Cepstral Coefficient and inputted into a Convolutional Neural Network (CNN) based architecture made up of one Poisson biomarker layer and 3 pre-trained ResNet50's in parallel, outputting a binary pre-screening diagnostic. Our CNN-based models have been trained on 4256 subjects and tested on the remaining 1064 subjects of our dataset. Transfer learning was used to learn biomarker features on larger datasets, previously successfully tested in our Lab on Alzheimer's, which significantly improves the COVID-19 discrimination accuracy of our architecture. Results: When validated with subjects diagnosed using an official test, the model achieves COVID-19 sensitivity of 98.5% with a specificity of 94.2% (AUC: 0.97). For asymptomatic subjects it achieves sensitivity of 100% with a specificity of 83.2%. Conclusions: AI techniques can produce a free, non-invasive, real-time, any-time, instantly distributable, largescale COVID-19 asymptomatic screening tool to augment current approaches in containing the spread of COVID-19. Practical use cases could be for daily screening of students, workers, and public as schools, jobs, and transport reopen, or for pool testing to quickly alert of outbreaks in groups. General speech biomarkers may exist that cover several disease categories, as we demonstrated using the same ones for COVID-19 and Alzheimer's.
+SN  - 2644-1276
+PY  - 2020
+VL  - 1
+SP  - 275
+EP  - 281
+DO  - 10.1109/OJEMB.2020.3026928
+AN  - WOS:000653537500038
+ER  -
+
+TY  - JOUR
+AU  - Palmiero, M
+AU  - Piccardi, L
+AU  - Nori, R
+AU  - Palermo, L
+AU  - Salvi, C
+AU  - Guariglia, C
+TI  - Editorial: Creativity: Education and Rehabilitation
+T2  - FRONTIERS IN PSYCHOLOGY
+SN  - 1664-1078
+DA  - JUN 26
+PY  - 2019
+VL  - 10
+C7  - 1500
+DO  - 10.3389/fpsyg.2019.01500
+AN  - WOS:000473181000001
+ER  -
+
+TY  - CPAPER
+AU  - Wang, KJ
+AU  - Shidujaman, M
+AU  - Zheng, CY
+AU  - Thakur, P
+A1  - IEEE
+TI  - HRIpreneur Thinking: Strategies Towards Faster Innovation and Commercialization of Academic HRI Research
+T2  - 2019 IEEE INTERNATIONAL CONFERENCE ON ADVANCED ROBOTICS AND ITS SOCIAL IMPACTS (ARSO)
+CP  - 15th IEEE International Conference on Advanced Robotics and Its Social Impacts (IEEE ARSO)
+AB  - In recent years, there has been a rapid rise in new product innovations in robots, robotic devices, human-robot interfaces, and social robots across the globe. This has largely been due to several inter-disciplinary research & development output from industries as well as a few robotics research institutions who have successfully embraced the convergence of braintech, robotics engineering, biomedical engineering, artificial intelligence, machine learning, and novel platform in human- machine interactions. However, the rate and scale of innovation in human-robot interaction (HRI) and their impact in creating social goods is still much slower compared to similar developments in other fields of research. We surmise that HRI innovation and commercialization of HRI products present unique challenges that are typically not encountered in other industries. Fragmented research, lack of supporting infrastructure and the gaps between lab research and user needs; as well as lack of venture capital investment in hardware products have led to sluggish innovation and longer duration of bringing those innovation into the real-world market. In this paper, we discuss the unique set of challenges faced by current HRI research/innovation and propose some methodology to direct the academic intellectual resources towards faster commercialization of their research.
+SN  - 2162-7568
+SN  - 978-1-7281-3176-4
+PY  - 2019
+SP  - 219
+EP  - 226
+DO  - 10.1109/arso46408.2019.8948829
+AN  - WOS:000528858900039
+ER  -
+
+TY  - CPAPER
+AU  - Amershi, S
+AU  - Weld, D
+AU  - Vorvoreanu, M
+AU  - Fourney, A
+AU  - Nushi, B
+AU  - Collisson, P
+AU  - Suh, J
+AU  - Iqbal, S
+AU  - Bennett, PN
+AU  - Inkpen, K
+AU  - Teevan, J
+AU  - Kikin-Gil, R
+AU  - Horvitz, E
+A1  - Assoc Comp Machinery
+TI  - Guidelines for Human-AI Interaction
+T2  - CHI 2019: PROCEEDINGS OF THE 2019 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS
+CP  - CHI Conference on Human Factors in Computing Systems (CHI)
+AB  - Advances in artificial intelligence (AI) frame opportunities and challenges for user interface design. Principles for humanAI interaction have been discussed in the human-computer interaction community for over two decades, but more study and innovation are needed in light of advances in AI and the growing uses of AI technologies in human-facing applications. We propose 18 generally applicable design guidelines for human-AI interaction. These guidelines are validated through multiple rounds of evaluation including a user study with 49 design practitioners who tested the guidelines against 20 popular AI-infused products. The results verify the relevance of the guidelines over a spectrum of interaction scenarios and reveal gaps in our knowledge, highlighting opportunities for further research. Based on the evaluations, we believe the set of design guidelines can serve as a resource to practitioners working on the design of applications and features that harness AI technologies, and to researchers interested in the further development of guidelines for human-AI interaction design.
+SN  - 978-1-4503-5970-2
+PY  - 2019
+DO  - 10.1145/3290605.3300233
+AN  - WOS:000474467900003
+ER  -
+
+TY  - CPAPER
+AU  - Park, T
+AU  - Liu, MY
+AU  - Wang, TC
+AU  - Zhu, JY
+A1  - IEEE Comp Soc
+TI  - Semantic Image Synthesis with Spatially-Adaptive Normalization
+T2  - 2019 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2019)
+CP  - 32nd IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+AB  - We propose spatially-adaptive normalization, a simple but effective layer for synthesizing photorealistic images given an input semantic layout. Previous methods directly feed the semantic layout as input to the deep network, which is then processed through stacks of convolution, normalization, and nonlinearity layers. We show that this is suboptimal as the normalization layers tend to "wash away" semantic information. To address the issue, we propose using the input layout. for modulating the activations in normalization layers through a spatially-adaptive,learned transformation. Experiments on several challenging datasets demonstrate the advantage of the proposed method over existing approaches, regarding both visual fidelity and align-ment with input layouts. Finally, our model allows user control over both semantic and style as synthesizing images.
+SN  - 1063-6919
+SN  - 978-1-7281-3293-8
+PY  - 2019
+SP  - 2332
+EP  - 2341
+DO  - 10.1109/CVPR.2019.00244
+AN  - WOS:000529484002051
+ER  -
+
+TY  - CPAPER
+AU  - Shidujaman, M
+AU  - Zhang, SH
+AU  - Elder, R
+AU  - Mi, HP
+ED  - Cabibihan, JJ
+ED  - Mastrogiovanni, F
+ED  - Pandey, AK
+ED  - Rossi, S
+ED  - Staffa, M
+TI  - "RoboQuin": A Mannequin Robot with Natural Humanoid Movements
+T2  - 2018 27TH IEEE INTERNATIONAL SYMPOSIUM ON ROBOT AND HUMAN INTERACTIVE COMMUNICATION (IEEE RO-MAN 2018)
+CP  - 27th IEEE International Symposium on Robot and Human Interactive Communication (IEEE RO-MAN)
+AB  - This paper presents the design, control and expressive capabilities of RoboQuin-a novel humanoid social robot. Although social robots have become more human-friendly, their capacity for naturalistic human behavior remains relatively limited. We implement an interdisciplinary design method to create a realistic and natural humanoid robot, with accurate body proportions and smooth motion coordination, and the ability to perform nonverbal communication. With this design, we aim to explore the impact of robot body design and dynamic robot postures on human perception towards robots.
+SN  - 1944-9445
+SN  - 978-1-5386-7980-7
+PY  - 2018
+SP  - 1051
+EP  - 1056
+AN  - WOS:000494315600165
+ER  -
+
+TY  - CPAPER
+AU  - Shidujaman, M
+AU  - Mi, HP
+ED  - Rau, PLP
+TI  - "Which Country Are You from?" A Cross-Cultural Study on Greeting Interaction Design for Social Robots
+T2  - CROSS-CULTURAL DESIGN: METHODS, TOOLS, AND USERS, PT I
+CP  - 10th International Conference on Cross-Cultural Design (CCD) Held as Part of 20th International Conference on Human-Computer Interaction (HCI International)
+AB  - Greeting gestures are one of the most important aspects of social robot behavior design. Existing research has shown different greeting gesture design methods for social robots when they interact with humans. However, cultural difference, which is an important factor between human greetings, is less explored for robot greeting gesture design. In this paper, we present our effort on understanding how different robot greeting behaviors will affect human perception in a cross-cultural context. We designed four different greeting gestures for NAO robot based on human greeting customs from different Asian countries. We also conducted a user experiment, in which participants from the different countries interact with the robot after it performs a designated robot greeting gesture. In the experiment, we investigated: (1) Whether a user could perceive a robot coming from a specific country or region when the robot has a specific greeting gesture; and (2) If the user demonstrates higher valence when the robot has the same greeting gesture with his/her country. We recruited 20 participants from four different countries in the experiment. The result of the experiment suggests a cross-cultural design method for humanoid social robots interacting with users from different cultural backgrounds.
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-92141-9
+SN  - 978-3-319-92140-2
+PY  - 2018
+VL  - 10911
+SP  - 362
+EP  - 374
+DO  - 10.1007/978-3-319-92141-9_28
+AN  - WOS:000550794600028
+ER  -
+
+TY  - JOUR
+AU  - Ransbotham, S
+TI  - The Subtle Sources of Sampling Bias Hiding in Your Data
+T2  - MIT SLOAN MANAGEMENT REVIEW
+SN  - 1532-9194
+DA  - FAL
+PY  - 2017
+VL  - 59
+IS  - 1
+SP  - 20
+EP  - 22
+AN  - WOS:000411047200007
+ER  -
+
+TY  - CPAPER
+AU  - Colton, S
+AU  - Wiggins, GA
+ED  - DeRaedt, L
+ED  - Bessiere, C
+ED  - Dubois, D
+ED  - Doherty, P
+ED  - Frasconi, P
+ED  - Heintz, F
+ED  - Lucas, P
+TI  - Computational Creativity: The Final Frontier?
+T2  - 20TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI 2012)
+CP  - 20th European Conference on Artificial Intelligence (ECAI)
+AB  - Notions relating to computational systems exhibiting creative behaviours have been explored since the very early days of computer science, and the field of Computational Creativity research has formed in the last dozen years to scientifically explore the potential of such systems. We describe this field via a working definition; a brief history of seminal work; an exploration of the main issues, technologies and ideas; and a look towards future directions. As a society, we are jealous of our creativity: creative people and their contributions to cultural progression are highly valued. Moreover, creative behaviour in people draws on a full set of intelligent abilities, so simulating such behaviour represents a serious technical challenge for Artificial Intelligence research. As such, we believe it is fair to characterise Computational Creativity as a frontier for AI research beyond all others-maybe, even, the final frontier.
+SN  - 0922-6389
+SN  - 1879-8314
+SN  - 978-1-61499-098-7
+SN  - 978-1-61499-097-0
+PY  - 2012
+VL  - 242
+SP  - 21
+EP  - +
+DO  - 10.3233/978-1-61499-098-7-21
+AN  - WOS:000349006300006
+ER  -
+
+TY  - JOUR
+AU  - Arden, R
+AU  - Chavez, RS
+AU  - Grazioplene, R
+AU  - Jung, RE
+TI  - Neuroimaging creativity: A psychometric view
+T2  - BEHAVIOURAL BRAIN RESEARCH
+AB  - Many studies of creative cognition with a neuroimaging component now exist; what do they say about where and how creativity arises in the brain? We reviewed 45 brain-imaging studies of creative cognition. We found little clear evidence of overlap in their results. Nearly as many different tests were used as there were studies; this test diversity makes it impossible to interpret the different findings across studies with any confidence. Our conclusion is that creativity research would benefit from psychometrically informed revision, and the addition of neuroimaging methods designed to provide greater spatial localization of function. Without such revision in the behavioral measures and study designs, it is hard to see the benefit of imaging. We set out eight suggestions in a manifesto for taking creativity research forward. (C) 2010 Elsevier B.V. All rights reserved.
+SN  - 0166-4328
+SN  - 1872-7549
+DA  - DEC 10
+PY  - 2010
+VL  - 214
+IS  - 2
+SP  - 143
+EP  - 156
+DO  - 10.1016/j.bbr.2010.05.015
+AN  - WOS:000281318700001
+ER  -
+
+TY  - JOUR
+AU  - Erden, YJ
+TI  - Could a Created Being Ever be Creative? Some Philosophical Remarks on Creativity and AI Development
+T2  - MINDS AND MACHINES
+AB  - Creativity has a special role in enabling humans to develop beyond the fulfilment of simple primary functions. This factor is significant for Artificial Intelligence (AI) developers who take replication to be the primary goal, since moves toward creating autonomous artificial-beings beg questions about their potential for creativity. Using Wittgenstein's remarks on rule-following and language-games, I argue that although some AI programs appear creative, to call these programmed acts creative in our terms is to misunderstand the use of this word in language. I conclude that replication is not the best way forward for AI development in matters of creativity.
+SN  - 0924-6495
+DA  - AUG
+PY  - 2010
+VL  - 20
+IS  - 3
+SP  - 349
+EP  - 362
+DO  - 10.1007/s11023-010-9202-2
+AN  - WOS:000284547500002
+ER  -
+
+TY  - CPAPER
+AU  - Rodden, K
+AU  - Hutchinson, H
+AU  - Fu, X
+A1  - ACM
+TI  - Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications
+T2  - CHI2010: PROCEEDINGS OF THE 28TH ANNUAL CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING SYSTEMS, VOLS 1-4
+CP  - 28th Annual CHI Conference on Human Factors in Computing Systems
+AB  - More and more products and services are being deployed on the web, and this presents new challenges and opportunities for measurement of user experience on a large scale. There is a strong need for user-centered metrics for web applications, which can be used to measure progress towards key goals, and drive product decisions. In this note, we describe the HEART framework for user-centered metrics, as well as a process for mapping product goals to metrics. We include practical examples of how HEART metrics have helped product teams make decisions that are both data-driven and user-centered. The framework and process have generalized to enough of our company's own products that we are confident that teams in other organizations will be able to reuse or adapt them. We also hope to encourage more research into metrics based on large-scale behavioral data.
+SN  - 978-1-60558-929-9
+PY  - 2010
+SP  - 2395
+EP  - 2398
+AN  - WOS:000281276701114
+ER  -
+
+TY  - JOUR
+AU  - Brown, T
+TI  - Design thinking
+T2  - HARVARD BUSINESS REVIEW
+AB  - In the past, design has most often occurred fairly far downstream in the development process and has focused on making new products aesthetically attractive or enhancing brand perception through smart, evocative advertising. Today, as innovation's terrain expands to encompass human-centered processes and services as well as products, companies are asking designers to create ideas rather than to simply dress them up.
+   Brown, the CEO and president of the innovation and design firm IDEO, is a leading proponent of design thinking - a method of meeting people's needs and desires in a technologically feasible and strategically viable way. In this article he offers several intriguing examples of the discipline at work. One involves a collaboration between frontline employees from health care provider Kaiser Permanente and Brown's firm to reengineer nursing-staff shift changes at four Kaiser hospitals. Close observation of actual shift changes, combined with brainstorming and rapid prototyping, produced new procedures and software that radically streamlined information exchange between shifts. The result was more time for nursing, better-informed patient care, and a happier nursing staff.
+   Another involves the Japanese bicycle components manufacturer Shimano, which worked with IDEO to learn why 90% of American adults don't ride bikes. The interdisciplinary project team discovered that intimidating retail experiences, the complexity and cost of sophisticated bikes, and the danger of cycling on heavily trafficked roads had overshadowed people's happy memories of childhood biking. So the team created a brand concept - "Coasting" -to describe a whole new category of biking and developed new in-store retailing strategies, a public relations campaign to identify safe places to cycle, and a reference design to inspire designers at the companies that went on to manufacture Coasting bikes.
+SN  - 0017-8012
+DA  - JUN
+PY  - 2008
+VL  - 86
+IS  - 6
+SP  - 84
+EP  - +
+AN  - WOS:000255973900018
+ER  -
+
+TY  - JOUR
+AU  - Dietrich, A
+TI  - The cognitive neuroscience of creativity
+T2  - PSYCHONOMIC BULLETIN & REVIEW
+AB  - This article outlines a framework of creativity based on functional neuroanatomy. Recent advances in the field of cognitive neuroscience have identified distinct brain circuits that are involved in specific higher brain functions. To date, these findings have not been applied to research on creativity. It is proposed that there are four basic types of creative insights, each mediated by a distinctive neural circuit. By definition, creative insights occur in consciousness. Given the view that the working memory buffer of the prefrontal cortex holds the content of consciousness, each of the four distinctive neural loops terminates there. When creativity is the result of deliberate control, as opposed to spontaneous generation, the prefrontal cortex also instigates the creative process. Both processing modes, deliberate and spontaneous, can guide neural computation in structures that contribute emotional content and in structures that provide cognitive analysis, yielding the four basic types of creativity. Supportive evidence from psychological, cognitive, and neuroscientific studies is presented and integrated in this article. The new theoretical framework systematizes the interaction between knowledge and creative thinking, and how the nature of this relationship changes as a function of domain and age. Implications for the arts and sciences are briefly discussed.
+SN  - 1069-9384
+SN  - 1531-5320
+DA  - DEC
+PY  - 2004
+VL  - 11
+IS  - 6
+SP  - 1011
+EP  - 1026
+DO  - 10.3758/BF03196731
+AN  - WOS:000227989700004
+ER  -
+
+TY  - JOUR
+AU  - Merrill, MD
+TI  - First principles of instruction
+T2  - ETR&D-EDUCATIONAL TECHNOLOGY RESEARCH AND DEVELOPMENT
+AB  - For the past several years the author has been reviewing instructional design theories in an attempt to identify prescriptive principles that are common to the various theories. This paper is a preliminary report of the principles that have been identified by this search. Five first principles are elaborated: (a) Learning is promoted when learners are engaged in solving real-world problems. (b) Learning is promoted when existing knowledge is activated as a foundation for new knowledge. (c) Learning is promoted when new knowledge is demonstrated to the learner. (d) Learning is promoted when new knowledge is applied by the learner. (e) Learning is promoted when new knowledge is integrated into the learner's world.
+SN  - 1042-1629
+SN  - 1556-6501
+PY  - 2002
+VL  - 50
+IS  - 3
+SP  - 43
+EP  - 59
+DO  - 10.1007/BF02505024
+AN  - WOS:000178942000003
+ER  -
+
+TY  - JOUR
+AU  - Mumford, MD
+TI  - Something old, something new: Revisiting Guilford's conception of creative problem solving
+T2  - CREATIVITY RESEARCH JOURNAL
+AB  - Over the course of his career, Guilford produced a remarkable body of research on creative thought. Today, this research is remembered primarily for its articulation of the notion that divergent thinking plays a key role in creative thought. However a number of other capacities relevant to understanding creative thought were identified in the course of this research effort. In th is article, I review th is research prog, ram as a whole with special reference to those capacities that warrant more attention in current studies of creativity. Implications for current research are discussed.
+SN  - 1040-0419
+SN  - 1532-6934
+PY  - 2000
+VL  - 13
+IS  - 3-4
+SP  - 267
+EP  - 276
+AN  - WOS:000172930100004
+ER  -
+
+TY  - JOUR
+AU  - Boden, MA
+TI  - Creativity and artificial intelligence
+T2  - ARTIFICIAL INTELLIGENCE
+AB  - Creativity is a fundamental feature of human intelligence, and a challenge for AT. AI techniques can be used to create new ideas in three ways: by producing novel combinations of familiar ideas; by exploring the potential of conceptual spaces; and by making transformations that enable the generation of previously impossible ideas. Al will have less difficulty in modelling the generation of new ideas than in automating their evaluation. (C) 1998 Elsevier Science B.V. All rights reserved.
+SN  - 0004-3702
+DA  - AUG
+PY  - 1998
+VL  - 103
+IS  - 1-2
+SP  - 347
+EP  - 356
+DO  - 10.1016/S0004-3702(98)00055-1
+AN  - WOS:000076676800015
+ER  -
+
+TY  - JOUR
+AU  - GUILFORD, JP
+TI  - VARIETIES OF CREATIVE GIFTEDNESS, THEIR MEASUREMENT AND DEVELOPMENT
+T2  - GIFTED CHILD QUARTERLY
+SN  - 0016-9862
+PY  - 1975
+VL  - 19
+IS  - 2
+SP  - 107
+EP  - 121
+DO  - 10.1177/001698627501900216
+AN  - WOS:A1975AD78900009
+ER  -
+
+TY  - JOUR
+AU  - CAMPBELL, DT
+TI  - BLIND VARIATION AND SELECTIVE RETENTION IN CREATIVE THOUGHT AS IN OTHER KNOWLEDGE PROCESSES
+T2  - PSYCHOLOGICAL REVIEW
+SN  - 0033-295X
+SN  - 1939-1471
+PY  - 1960
+VL  - 67
+IS  - 6
+SP  - 380
+EP  - 400
+DO  - 10.1037/h0040373
+AN  - WOS:A1960WG42100004
+ER  -
+
+TY  - JOUR
+AU  - GUILFORD, JP
+TI  - THE STRUCTURE OF INTELLECT
+T2  - PSYCHOLOGICAL BULLETIN
+SN  - 0033-2909
+PY  - 1956
+VL  - 53
+IS  - 4
+SP  - 267
+EP  - 293
+DO  - 10.1037/h0040755
+AN  - WOS:A1956WD14700001
+ER  -
+

@@ -1,0 +1,1162 @@
+TY  - JOUR
+T1  - A systematic review of Stimulated Recall (SR) in educational research from 2012 to 2022
+AN  - 3033794366
+AB  - Stimulated Recall (SR) has long been used in educational settings as an approach of retrospection. However, with the fast growing of digital learning and advanced technologies in educational settings over the past decade, the extent to which stimulated recall has been effectively implemented by researchers remains minimal. This systematic review reveals that SR has been primarily employed to probe the patterns of participants’ thinking, to examine the effects of instructional strategies, and to promote metacognitive level. Notably, SR video stimuli have advanced, and the sources of stimuli have become more diverse, including the incorporation of physiological data. Additionally, researchers have applied various strategies, such as flexible intervals and questioning techniques, in SR interviews. Furthermore, this article discusses the relationships between different SR research items, including stimuli and learning contexts. The review and analysis also demonstrate that stimulated recall may be further enhanced by integrating multiple data sources, applying intelligent algorithms, and incorporating conversational agents enabled by generative artificial intelligence such as ChatGPT. This article provides a comprehensive analysis of SR studies in the realm of education and proposes a promising avenue for researchers to proactively apply stimulated recall in investigating educational issues in the digital era.
+JF  - Humanities & Social Sciences Communications
+AU  - Zhai, Xuesong
+AU  - Chu, Xiaoyan
+AU  - Wang, Minjuan
+AU  - Tsai, Chin-Chung
+AU  - Liang, Jyh-Chong
+AU  - Spector, Jonathan Michael
+AD  - Zhejiang University, College of Education, Hangzhou, China (GRID:grid.13402.34) (ISNI:0000 0004 1759 700X); Hangzhou International Urbanology Research Center & Zhejiang Urban Governance Studies Center, Hangzhou, China (GRID:grid.13402.34) ; Zhejiang University, College of Education, Hangzhou, China (GRID:grid.13402.34) (ISNI:0000 0004 1759 700X) ; The Education University of Hong Kong, Department of Mathematics and Information Technology, Hong Kong SAR, China (GRID:grid.419993.f) (ISNI:0000 0004 1799 6254); Learning Design and Technology, San Diego State University, San Diego, USA (GRID:grid.263081.e) (ISNI:0000 0001 0790 1491) ; National Taiwan Normal University, Program of Learning Sciences and Institute for Research Excellence in Learning Sciences, Taipei, Taiwan (GRID:grid.412090.e) (ISNI:0000 0001 2158 7670) ; University of North Texas, Department of Learning Technologies, Denton, USA (GRID:grid.266869.5) (ISNI:0000 0001 1008 957X) ; Zhejiang University, College of Education, Hangzhou, China (GRID:grid.13402.34) (ISNI:0000 0004 1759 700X); Hangzhou International Urbanology Research Center & Zhejiang Urban Governance Studies Center, Hangzhou, China (GRID:grid.13402.34)
+Y1  - 2024/12//
+PY  - 2024
+DA  - Dec 2024
+SP  - 489
+CY  - London
+PB  - Palgrave Macmillan
+PP  - London
+VL  - 11
+IS  - 1
+KW  - Social Sciences: Comprehensive Works
+KW  - Teaching
+KW  - Pedagogy
+KW  - Research methodology
+KW  - Students
+KW  - Human-computer interaction
+KW  - Second language learning
+KW  - Memory
+KW  - Learning outcomes
+KW  - Multimedia
+KW  - Video recordings
+KW  - Teacher education
+KW  - Researchers
+KW  - Educational research
+KW  - Education
+KW  - Anatomical systems
+KW  - Metacognition
+KW  - Learning environment
+KW  - Algorithms
+KW  - Interviews
+KW  - Cognition & reasoning
+KW  - Artificial intelligence
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/systematic-review-stimulated-recall-sr/docview/3033794366/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=A+systematic+review+of+Stimulated+Recall+%28SR%29+in+educational+research+from+2012+to+2022&title=Humanities+%26+Social+Sciences+Communications&issn=&date=2024-12-01&volume=11&issue=1&spage=489&au=Zhai%2C+Xuesong%3BChu%2C+Xiaoyan%3BWang%2C+Minjuan%3BTsai%2C+Chin-Chung%3BLiang%2C+Jyh-Chong%3BSpector%2C+Jonathan+Michael&isbn=&jtitle=Humanities+%26+Social+Sciences+Communications&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1057%2Fs41599-024-02987-6
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © The Author(s) 2024. This work is published under http://creativecommons.org/licenses/by/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-06
+DO  - https://doi.org/10.1057/s41599-024-02987-6
+L1  - https://media.proquest.com/media/hms/PFT/1/qCqqX?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDQ5NjExMgozMDMzNzk0MzY2Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjQvMTIvMDFyCjIwMjQvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=rU0B%2BVQl1TLVFJ6YcYXih3UrAts%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - What factors will affect the effectiveness of using ChatGPT to solve programming problems? A quasi-experimental study
+AN  - 2931867553
+AB  - The emergence of ChatGPT has sparked new expectations for AI-empowered educational transformation. However, it remains unknown which factors affect its effectiveness in empowering learners to solve programming problems. Therefore, this study employed a quasi-experimental research design and used Python graphing in programming education as an example to investigate the factors influencing the effectiveness of learners in applying ChatGPT to problem-solving. Findings: AI literacy significantly influences learners’ effectiveness in using ChatGPT to solve problems, with AI awareness and AI usage being key factors. The knowledge base of programming language significantly affects learners’ effectiveness in applying ChatGPT to solve programming problems. Learners’ cognitive level of ChatGPT significantly influences their effectiveness in applying ChatGPT to problem-solving, while usage intention does not have a significant impact. However, learners’ intention to use ChatGPT significantly improves after application. Based on these findings, this study proposes that in the process of empowering education with Artificial Intelligence Generated Content (AIGC) products, the focus on learners should shift from cultivating their AI usage to AI literacy, laying the foundation for empowering learning with AIGC products. It is suggested to shift from mastering specific knowledge to graph-based rules as a method for empowering learning with AIGC products. Additionally, the focus should shift from enhancing learners’ intention to use the technology to strengthen their technological awareness, thereby creating practical pathways for empowering learning with AIGC products.
+JF  - Humanities & Social Sciences Communications
+AU  - Jing, Yuhui
+AU  - Wang, Haoming
+AU  - Chen, Xiaojiao
+AU  - Wang, Chengliang
+AD  - Zhejiang University of Technology, College of Educational Science and Technology, Zhejiang, China (GRID:grid.469325.f) (ISNI:0000 0004 1761 325X) ; East China Normal University, Department of Education Information Technology, Faculty of Education, Shanghai, China (GRID:grid.22069.3f) (ISNI:0000 0004 0369 6365) ; Zhejiang University of Technology, College of Educational Science and Technology, Zhejiang, China (GRID:grid.469325.f) (ISNI:0000 0004 1761 325X)
+Y1  - 2024/12//
+PY  - 2024
+DA  - Dec 2024
+SP  - 319
+CY  - London
+PB  - Palgrave Macmillan
+PP  - London
+VL  - 11
+IS  - 1
+KW  - Social Sciences: Comprehensive Works
+KW  - Problem solving
+KW  - Teaching
+KW  - Research methodology
+KW  - Human-computer interaction
+KW  - Literacy
+KW  - Artificial intelligence
+KW  - Language usage
+KW  - Knowledge
+KW  - Language instruction
+KW  - Research design
+KW  - Empowerment
+KW  - Questionnaires
+KW  - Systems development
+KW  - Programming languages
+KW  - Education
+KW  - Learning
+KW  - Chatbots
+KW  - Digital literacy
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/what-factors-will-affect-effectiveness-using/docview/2931867553/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=What+factors+will+affect+the+effectiveness+of+using+ChatGPT+to+solve+programming+problems%3F+A+quasi-experimental+study&title=Humanities+%26+Social+Sciences+Communications&issn=&date=2024-12-01&volume=11&issue=1&spage=319&au=Jing%2C+Yuhui%3BWang%2C+Haoming%3BChen%2C+Xiaojiao%3BWang%2C+Chengliang&isbn=&jtitle=Humanities+%26+Social+Sciences+Communications&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1057%2Fs41599-024-02751-w
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © The Author(s) 2024. This work is published under http://creativecommons.org/licenses/by/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-02-27
+DO  - https://doi.org/10.1057/s41599-024-02751-w
+L1  - https://media.proquest.com/media/hms/PFT/1/GNjQX?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDQ5NjExMgoyOTMxODY3NTUzOg1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjQvMTIvMDFyCjIwMjQvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=w2ENA3WgT54W%2F7Gk18i0qkh140c%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Artificial cognition vs. artificial intelligence for next-generation autonomous robotic agents
+AN  - 2972948848
+AB  - The trend in industrial/service robotics is to develop robots that can cooperate with people, interacting with them in an autonomous, safe and purposive way. These are the fundamental elements characterizing the fourth and the fifth industrial revolutions (4IR, 5IR): the crucial innovation is the adoption of intelligent technologies that can allow the development of cyber-physical systems, similar if not superior to humans. The common wisdom is that intelligence might be provided by AI (Artificial Intelligence), a claim that is supported more by media coverage and commercial interests than by solid scientific evidence. AI is currently conceived in a quite broad sense, encompassing LLMs and a lot of other things, without any unifying principle, but self-motivating for the success in various areas. The current view of AI robotics mostly follows a purely disembodied approach that is consistent with the old-fashioned, Cartesian mind-body dualism, reflected in the software-hardware distinction inherent to the von Neuman computing architecture.The working hypothesis of this position paper is that the road to the next generation of autonomous robotic agents with cognitive capabilities requires a fully brain-inspired, embodied cognitive approach that avoids the trap of mind-body dualism and aims at the full integration of Bodyware and Cogniware. We name this approach Artificial Cognition (ACo) and ground it in Cognitive Neuroscience. It is specifically focused on proactive knowledge acquisition based on bidirectional human-robot interaction: the practical advantage is to enhance generalization and explainability. Moreover, we believe that a brain-inspired network of interactions is necessary for allowing humans to cooperate with artificial cognitive agents, building a growing level of personal trust and reciprocal accountability: this is clearly missing, although actively sought, in current AI. The ACo approach is a work in progress that can take advantage of a number of research threads, some of them antecedent the early attempts to define AI concepts and methods. In the rest of the paper we will consider some of the building blocks that need to be re-visited in a unitary framework: the principles of developmental robotics, the methods of action representation with prospection capabilities, and the crucial role of social interaction.
+JF  - Frontiers in Computational Neuroscience
+AU  - Sandini, Giulio
+AU  - Sciutti, Alessandra
+AU  - Morasso, Pietro
+Y1  - 2024/03/22/
+PY  - 2024
+DA  - 2024 Mar 22
+CY  - Lausanne
+PB  - Frontiers Research Foundation
+PP  - Lausanne
+KW  - Medical Sciences--Psychiatry And Neurology
+KW  - Embodied Cognition
+KW  - self-organization
+KW  - Body model
+KW  - Neural Simulation of Actions
+KW  - developmental robotics
+KW  - social robotics
+KW  - Embodied cognition
+KW  - Human-computer interaction
+KW  - Artificial intelligence
+KW  - Etymology
+KW  - Brain
+KW  - Knowledge
+KW  - Neural networks
+KW  - Cybernetics
+KW  - Design
+KW  - Neurosciences
+KW  - Robotics
+KW  - Cognitive ability
+KW  - Cognition
+KW  - Cognition & reasoning
+KW  - Natural language
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/artificial-cognition-vs-intelligence-next/docview/2972948848/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Artificial+cognition+vs.+artificial+intelligence+for+next-generation+autonomous+robotic+agents&title=Frontiers+in+Computational+Neuroscience&issn=&date=2024-03-22&volume=&issue=&spage=&au=Sandini%2C+Giulio%3BSciutti%2C+Alessandra%3BMorasso%2C+Pietro&isbn=&jtitle=Frontiers+in+Computational+Neuroscience&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3389%2Ffncom.2024.1349408
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2024. This work is licensed under http://creativecommons.org/licenses/by/4.0/  (the “License”).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-03-22
+DO  - https://doi.org/10.3389/fncom.2024.1349408
+L1  - https://media.proquest.com/media/hms/PFT/1/cnJfX?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43Kgc0NDI0NDA5MgoyOTcyOTQ4ODQ4Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjQvMDMvMjJyCjIwMjQvMDMvMjJ6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=Da0YsNDuD8in9ElIHRNwdt%2FQ9Z4%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Enhancing English as a Foreign Language (EFL) Learners’ Writing with ChatGPT: A University-Level Course Design: EJEL
+AN  - 3045262244
+AB  - This research explores the innovative integration of OpenAI’s GPT-3.5 within a university-level English as a Foreign Language (EFL) writing course, illustrating a novel approach to academic instruction. The course follows the ADDIE instructional design model, encompassing five systematic stages: analysis, design, development, implementation, and evaluation. This model serves as the backbone of the course structure, ensuring a comprehensive educational experience. The incorporation of the Technological Pedagogical Content Knowledge (TPACK) framework in this course facilitates the effective integration of GPT-3.5 by enabling instructors to align advanced AI capabilities with appropriate pedagogical strategies, thereby enhancing the learning experience. TPACK guides educators in applying GPT-3.5’s features in a manner that is contextually relevant and pedagogically sound, ensuring the technology’s use complements the course content. The findings from this research are significant. They reveal that GPT-3.5 addresses three fundamental challenges often encountered in academic writing courses. Firstly, it enhances efficiency by providing immediate feedback and generating content ideas, accelerating the writing process. Secondly, GPT-3.5 ensures cohesive organization within students’ writing, guiding them to structure their thoughts more logically. Lastly, it serves as a reliable substitute for traditional peer reviewers, offering critical and objective feedback that students can use to refine their drafts. As students engage with AI, they enter a dynamic partnership. This collaboration with GPT-3.5 fosters critical thinking and empowers students to develop a distinctive writing voice. Through this interaction, students are not merely passive recipients of knowledge but active participants in a learning process that is augmented by cutting-edge technology. This study not only provides insight into the potential of AI-augmented academic writing but also highlights GPT-3.5’s role in promoting writing proficiency. It demonstrates that the application of AI in education can enhance the learning experience without compromising the individuality of student expression.
+JF  - Electronic Journal of E-Learning
+AU  - Yu-Ching, Tseng
+AU  - Lin, Yi-Hsuan
+Y1  - 2024
+PY  - 2024
+DA  - 2024
+SP  - 78
+EP  - 97
+CY  - Reading
+PB  - Academic Conferences International Limited
+PP  - Reading
+VL  - 22
+IS  - 2
+KW  - Education--Teaching Methods And Curriculum
+KW  - ChatGPT
+KW  - AI-assisted writing
+KW  - English as a foreign language (EFL)
+KW  - TPACK
+KW  - ADDIE
+KW  - Pedagogy
+KW  - Students
+KW  - Feedback
+KW  - Writing processes
+KW  - Collaboration
+KW  - Instructional design
+KW  - Classroom communication
+KW  - Academic writing
+KW  - English as a second language
+KW  - Foreign language learning
+KW  - Foreign languages
+KW  - Writing instruction
+KW  - Teaching methods
+KW  - Second language writing
+KW  - Colleges & universities
+KW  - Education
+KW  - Curriculum development
+KW  - Artificial intelligence
+KW  - English as a second language instruction
+KW  - Course Content
+KW  - Educational Strategies
+KW  - English (Second Language)
+KW  - Academic Language
+KW  - Learning Experience
+KW  - Learning Processes
+KW  - Computer Assisted Instruction
+KW  - Instructional Design
+KW  - Writing Skills
+KW  - Thinking Skills
+KW  - Second Languages
+KW  - Writing Instruction
+KW  - Educational Experience
+KW  - Writing Processes
+KW  - Pedagogical Content Knowledge
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/trade-journals/enhancing-english-as-foreign-language-efl/docview/3045262244/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Enhancing+English+as+a+Foreign+Language+%28EFL%29+Learners%26rsquo%3B+Writing+with+ChatGPT%3A+A+University-Level+Course+Design%3A+EJEL&title=Electronic+Journal+of+E-Learning&issn=&date=2024-01-01&volume=22&issue=2&spage=78&au=Yu-Ching%2C+Tseng%3BLin%2C+Yi-Hsuan&isbn=&jtitle=Electronic+Journal+of+E-Learning&btitle=&rft_id=info:eric/&rft_id=info:doi/10.34190%2Fejel.21.5.3329
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2024. This work is published under https://creativecommons.org/licenses/by-nc-nd/4.0/  (the “License”).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-25
+N1  - SubjectsTermNotLitGenreText - Academic Language; Learning Processes; Learning Experience; English (Second Language); Second Languages; Writing Processes; Computer Assisted Instruction; Writing Skills; Thinking Skills; Pedagogical Content Knowledge; Instructional Design; Writing Instruction; Educational Experience; Course Content; Educational Strategies
+DO  - https://doi.org/10.34190/ejel.21.5.3329
+L1  - https://media.proquest.com/media/hms/PFT/1/76N8Y?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgY0MDYzMDcyCjMwNDUyNjIyNDQ6DURvY3VtZW50SW1hZ2VCATBSBk9ubGluZVoCRlRiA1BGVGoKMjAyNC8wMS8wMXIKMjAyNC8xMi8zMXoAggEhUC0xMDA5MjQwLTE0NzAxLUZSRUUtbnVsbC02NDU1OTAykgEGT25saW5lygF1TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM20gEOVHJhZGUgSm91cm5hbHOaAgdQcmVQYWlkqgIrT1M6RU1TLU1lZGlhTGlua3NTZXJ2aWNlLWdldE1lZGlhVXJsRm9ySXRlbcoCD0FydGljbGV8RmVhdHVyZdICAVnyAgD6AgFZggMDV2ViigMcQ0lEOjIwMjQwNTA0MjEwNjI1NjM4OjE5MDUzNA%3D%3D&_s=JAfz4PLLvMGcmYHgbc8dkkRTzmQ%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Exploring the Feasibility and Efficacy of ChatGPT3 for Personalized Feedback in Teaching: EJEL
+AN  - 3045262191
+AB  - This study explores the feasibility of using AI technology, specifically ChatGPT-3, to provide reliable, meaningful, and personalized feedback. Specifically, the study explores the benefits and limitations of using AI-based feedback in language learning; the pedagogical frameworks that underpin the effective use of AI-based feedback; the reliability of ChatGPT-3’s feedback; and the potential implications of AI integration in language instruction. A review of existing literature identifies key themes and findings related to AI-based teaching practices. The study found that social cognitive theory (SCT) supports the potential use of AI chatbots in the learning process as AI can provide students with instant guidance and support that fosters personalized, independent learning experiences. Similarly, Krashen’s second language acquisition theory (SLA) was found to support the hypothesis that AI use can enhance student learning by creating meaningful interaction in the target language wherein learners engage in genuine communication rather than focusing solely on linguistic form. To determine the reliability of AI-generated feedback, an analysis was performed on student writing. First, two rubrics were created by ChatGPT-3; AI then graded the papers, and the results were compared with human graded results using the same rubrics. The study concludes that e-Learning arning certainly has great potential; besides providing timely, personalized learning support, AI feedback can increase student motivation and foster learning independence. Not surprisingly, though, several caveats exist. It was found that ChatGPT-3 is prone to error and hallucination in providing student feedback, especially when presented with longer texts. To avoid this, rubrics must be carefully constructed, and teacher oversight is still very much required. This study will help educators transition to the new era of AI-assisted e-Learning by helping them make informed decisions about how to provide useful AI feedback that is underpinned by sound pedagogical principles.
+JF  - Electronic Journal of E-Learning
+AU  - Naz, Irum
+AU  - Robertson, Rodney
+Y1  - 2024
+PY  - 2024
+DA  - 2024
+SP  - 98
+EP  - 111
+CY  - Reading
+PB  - Academic Conferences International Limited
+PP  - Reading
+VL  - 22
+IS  - 2
+KW  - Education--Teaching Methods And Curriculum
+KW  - Artificial intelligence (AI)
+KW  - ChatGPT-3
+KW  - Empowering teaching practices
+KW  - Personalized feedback
+KW  - Transformative implications
+KW  - Teaching
+KW  - Pedagogy
+KW  - Feedback
+KW  - Chatbots
+KW  - Classroom communication
+KW  - Student writing
+KW  - Error analysis
+KW  - Second language learning theories
+KW  - Customization
+KW  - Second language writing
+KW  - Feasibility studies
+KW  - Literature reviews
+KW  - Human-computer interaction
+KW  - Second language learning
+KW  - Reliability
+KW  - Computer assisted language learning
+KW  - Language instruction
+KW  - Motivation
+KW  - Online instruction
+KW  - Language teaching methods
+KW  - Artificial intelligence
+KW  - Interpersonal communication
+KW  - Distance learning
+KW  - Language Acquisition
+KW  - Learning Processes
+KW  - Teaching Methods
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/trade-journals/exploring-feasibility-efficacy-chatgpt3/docview/3045262191/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Exploring+the+Feasibility+and+Efficacy+of+ChatGPT3+for+Personalized+Feedback+in+Teaching%3A+EJEL&title=Electronic+Journal+of+E-Learning&issn=&date=2024-01-01&volume=22&issue=2&spage=98&au=Naz%2C+Irum%3BRobertson%2C+Rodney&isbn=&jtitle=Electronic+Journal+of+E-Learning&btitle=&rft_id=info:eric/&rft_id=info:doi/10.34190%2Fejel.22.2.3345
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2024. This work is published under https://creativecommons.org/licenses/by-nc-nd/4.0/  (the “License”).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-25
+N1  - SubjectsTermNotLitGenreText - Learning Processes; Teaching Methods; Language Acquisition
+DO  - https://doi.org/10.34190/ejel.22.2.3345
+L1  - https://media.proquest.com/media/hms/PFT/1/X6N8Y?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgY0MDYzMDcyCjMwNDUyNjIxOTE6DURvY3VtZW50SW1hZ2VCATBSBk9ubGluZVoCRlRiA1BGVGoKMjAyNC8wMS8wMXIKMjAyNC8xMi8zMXoAggEhUC0xMDA5MjQwLTE0NzAxLUZSRUUtbnVsbC02NDU1OTAykgEGT25saW5lygF1TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM20gEOVHJhZGUgSm91cm5hbHOaAgdQcmVQYWlkqgIrT1M6RU1TLU1lZGlhTGlua3NTZXJ2aWNlLWdldE1lZGlhVXJsRm9ySXRlbcoCD0FydGljbGV8RmVhdHVyZdICAVnyAgD6AgFZggMDV2ViigMcQ0lEOjIwMjQwNTA0MjEwNjI1NjM4OjE5MDUzNA%3D%3D&_s=I7HQaEhOs72xOnuVZ5r%2BJZK%2BTY8%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Natural Language Processing Influence on Digital Socialization and Linguistic Interactions in the Integration of the Metaverse in Regular Social Life
+AN  - 3037513939
+AB  - The Metaverse and Natural Language Processing (NLP) technologies have combined to fundamentally change the nature of digital sociability. Our understanding of social interaction needs to be reevaluated as the Metaverse’s influence spreads into more areas of daily life, such as AI-driven gaming, interactive training companions, museum exhibits, personalized fitness coaching, virtual mental health assistance, language translation services, virtual tour guiding, and virtual conferencing. This study analyzes how NLP is changing social relationships in these Metaverse applications. We examine how NLP algorithms influence societal norms, individual behaviors, interpersonal connections, and improve the user experience using a multi-method approach incorporating user surveys and sentiment analysis. Our study’s findings show how NLP can enhance interactive experiences while also pointing out related issues like potential bias and moral problems. Our study provides a foundational analysis, shedding light on the challenges of negotiating a social environment in the Metaverse that is molded by cutting-edge NLP. It offers stakeholders in academia and public policy essential assistance that helps them understand and manage the complex ramifications of this changing socio-technological paradigm.
+JF  - Electronics
+AU  - Rashadul Islam Sumon
+AU  - Shah Muhammad Imtiyaj Uddin
+AU  - Akter, Salma
+AU  - Md Ariful Islam Mozumder
+AU  - Khan, Muhammad Omair
+AU  - Hee-Cheol, Kim
+Y1  - 2024
+PY  - 2024
+DA  - 2024
+SP  - 1331
+CY  - Basel
+PB  - MDPI AG
+PP  - Basel
+VL  - 13
+IS  - 7
+KW  - Electronics
+KW  - natural language processing
+KW  - social media
+KW  - digital revolution
+KW  - virtual environments
+KW  - digital sociability
+KW  - Language
+KW  - User behavior
+KW  - Collaboration
+KW  - User experience
+KW  - Verbal communication
+KW  - Social factors
+KW  - Ethics
+KW  - Language translation
+KW  - Algorithms
+KW  - Socialization
+KW  - Bias
+KW  - Nonverbal communication
+KW  - Public policy
+KW  - Sociolinguistics
+KW  - Data mining
+KW  - Artificial intelligence
+KW  - Social interaction
+KW  - Social support
+KW  - Sentiment analysis
+KW  - Natural language processing
+KW  - Multilingualism
+KW  - Linguistics
+KW  - Mental health
+KW  - Customization
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/natural-language-processing-influence-on-digital/docview/3037513939/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Natural+Language+Processing+Influence+on+Digital+Socialization+and+Linguistic+Interactions+in+the+Integration+of+the+Metaverse+in+Regular+Social+Life&title=Electronics&issn=&date=2024-01-01&volume=13&issue=7&spage=1331&au=Rashadul+Islam+Sumon%3BShah+Muhammad+Imtiyaj+Uddin%3BAkter%2C+Salma%3BMd+Ariful+Islam+Mozumder%3BKhan%2C+Muhammad+Omair%3BHee-Cheol%2C+Kim&isbn=&jtitle=Electronics&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3390%2Felectronics13071331
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2024 by the authors.  Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-12
+DO  - https://doi.org/10.3390/electronics13071331
+L1  - https://media.proquest.com/media/hms/PFT/1/8L1uX?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDMyNDA0MgozMDM3NTEzOTM5Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjQvMDEvMDFyCjIwMjQvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=L8o%2FMm%2BF9WoKieTqLEPOnUlrj50%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - ChatGPT and L2 Written Communication: A Game-Changer or Just Another Tool?
+AN  - 2918773675
+AB  - The development of English language written communication skills across many contexts has been hindered by factors such as examination-oriented cultures, anxiety associated with both oral and written communication, limited opportunities for engaging in authentic communication, and a lack of individualized, personalized feedback. Multiple studies throughout the last decade have explored chatbot integration as a means to address these issues and enhance students’ language learning toolkits. This paper delves into the potential benefits and roles of advanced Generative AI (GenAI) chatbots (e.g., ChatGPT) in enhancing second language (L2) communicative practices. We evaluate findings associated with various types of chatbots and present pedagogical strategies for their application of GenAI in both in-class and out-of-class spaces to support students’ language learning experiences. We also propose future research directions, emphasizing the necessity to explore the ethical use of AI tools, their impact on L2 communication, and the comparative effectiveness of retrieval-based and GenAI-powered chatbots in language education.
+JF  - Languages
+AU  - Zadorozhnyy, Artem
+AU  - Wan Yee Winsy Lai
+Y1  - 2024
+PY  - 2024
+DA  - 2024
+SP  - 5
+CY  - Basel
+PB  - MDPI AG
+PP  - Basel
+VL  - 9
+IS  - 1
+KW  - Linguistics
+KW  - AI
+KW  - ChatGPT
+KW  - GenAI
+KW  - language learning
+KW  - language teaching
+KW  - chatbots
+KW  - computer-assisted language learning
+KW  - Grammar
+KW  - Research
+KW  - Language
+KW  - Anxiety
+KW  - Pedagogy
+KW  - Ethics
+KW  - Human-computer interaction
+KW  - Second language learning
+KW  - Classrooms
+KW  - Feedback
+KW  - Writing
+KW  - Verbal communication
+KW  - Cultural factors
+KW  - Computer assisted language learning
+KW  - College students
+KW  - Listening
+KW  - Students
+KW  - English as a second language
+KW  - Communication
+KW  - Chatbots
+KW  - Natural language
+KW  - Written language
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/chatgpt-l2-written-communication-game-changer/docview/2918773675/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=ChatGPT+and+L2+Written+Communication%3A+A+Game-Changer+or+Just+Another+Tool%3F&title=Languages&issn=&date=2024-01-01&volume=9&issue=1&spage=5&au=Zadorozhnyy%2C+Artem%3BWan+Yee+Winsy+Lai&isbn=&jtitle=Languages&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3390%2Flanguages9010005
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2023 by the authors.  Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-01-30
+DO  - https://doi.org/10.3390/languages9010005
+L1  - https://media.proquest.com/media/hms/PFT/1/nLFBX?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43Kgc1MDQ2ODgzMgoyOTE4NzczNjc1Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjQvMDEvMDFyCjIwMjQvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=DlE562mEnz4%2BS8Nn3lBfukXE%2FFM%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Development of an Assessment Scale for Measurement of Usability and User Experience Characteristics of Bing Chat Conversational AI
+AN  - 2918737851
+AB  - After the introduction of the ChatGPT conversational artificial intelligence (CAI) tool in November 2022, there has been a rapidly growing interest in the use of such tools in higher education. While the educational uses of some other information technology (IT) tools (including collaboration and communication tools, learning management systems, chatbots, and videoconferencing tools) have been frequently evaluated regarding technology acceptance and usability attributes of those technologies, similar evaluations of CAI tools and services like ChatGPT, Bing Chat, and Bard have only recently started to appear in the scholarly literature. In our study, we present a newly developed set of assessment scales that are related to the usability and user experiences of CAI tools when used by university students, as well as the results of evaluation of these assessment scales specifically regarding the CAI Bing Chat tool (i.e., Microsoft Copilot). The following scales were developed and evaluated using a convenience sample (N = 126) of higher education students: Perceived Usefulness, General Usability, Learnability, System Reliability, Visual Design and Navigation, Information Quality, Information Display, Cognitive Involvement, Design Appeal, Trust, Personification, Risk Perception, and Intention to Use. For most of the aforementioned scales, internal consistency (Cronbach alpha) was in the range from satisfactory to good, which implies their potential usefulness for further studies of related attributes of CAI tools. A stepwise linear regression revealed that the most influential predictors of Intention to Use Bing Chat (or ChatGPT) in the future were the usability variable Perceived Usefulness and two user experience variables—Trust and Design Appeal. Also, our study revealed that students’ perceptions of various specific usability and user experience characteristics of Bing Chat were predominantly positive. The evaluated assessment scales could be beneficial in further research that would include other CAI tools like ChatGPT/GPT-4 and Bard.
+JF  - Future Internet
+AU  - Bubaš, Goran
+AU  - Čižmešija, Antonela
+AU  - Kovačić, Andreja
+Y1  - 2024
+PY  - 2024
+DA  - 2024
+SP  - 4
+CY  - Basel
+PB  - MDPI AG
+PP  - Basel
+VL  - 16
+IS  - 1
+KW  - Computers--Internet
+KW  - conversational artificial intelligence
+KW  - higher education
+KW  - Bing Chat
+KW  - usability
+KW  - user experience
+KW  - survey
+KW  - Teaching
+KW  - Research
+KW  - Video conferencing
+KW  - Pedagogy
+KW  - Higher education
+KW  - Students
+KW  - Usability
+KW  - System reliability
+KW  - User experience
+KW  - Cooperative learning
+KW  - Learnability
+KW  - Chatbots
+KW  - College students
+KW  - Chat
+KW  - Educational technology
+KW  - User interfaces
+KW  - Displays
+KW  - Learning activities
+KW  - Videoconferencing
+KW  - Conversational artificial intelligence
+KW  - Search engines
+KW  - Management systems
+KW  - Evaluation
+KW  - Colleges & universities
+KW  - Artificial intelligence
+KW  - Human-computer interaction
+KW  - Technology adoption
+KW  - Second language learning
+KW  - Education
+KW  - Risk perception
+KW  - Information technology
+KW  - Technology Acceptance Model
+KW  - Computer assisted instruction--CAI
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/development-assessment-scale-measurement/docview/2918737851/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Development+of+an+Assessment+Scale+for+Measurement+of+Usability+and+User+Experience+Characteristics+of+Bing+Chat+Conversational+AI&title=Future+Internet&issn=&date=2024-01-01&volume=16&issue=1&spage=4&au=Buba%C5%A1%2C+Goran%3B%C4%8Ci%C5%BEme%C5%A1ija%2C+Antonela%3BKova%C4%8Di%C4%87%2C+Andreja&isbn=&jtitle=Future+Internet&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3390%2Ffi16010004
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Name - Pew Research Center; OpenAI
+N1  - Copyright - © 2023 by the authors.  Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-01-27
+DO  - https://doi.org/10.3390/fi16010004
+L1  - https://media.proquest.com/media/hms/PFT/1/lD7BX?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDMyMzk2MgoyOTE4NzM3ODUxOg1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjQvMDEvMDFyCjIwMjQvMTIvMzF6AIIBKVAtMTAwOTkyNC0xMjk0MS1DVVNUT01FUi0xMDAwMDM2OS02Njk4NTc2kgEGT25saW5lygF1TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM20gESU2Nob2xhcmx5IEpvdXJuYWxzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAg9BcnRpY2xlfEZlYXR1cmXSAgFZ8gIA%2BgIBWYIDA1dlYooDHENJRDoyMDI0MDUwNDIxMDYyNTYzODoxOTA1MzQ%3D&_s=gqLzQW%2Fm9smpnUxs7PNaCpF2y7o%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - The impact of AI writing tools on the content and organization of students’ writing: EFL teachers’ perspective
+AN  - 2902246659
+AB  - The primary objective of this study was to examine the range of available Artificial Intelligence (AI) writing tools and assess their influence on student writing, particularly in terms of content and organization, as perceived by English as a Foreign Language (EFL) teachers. Utilizing a qualitative approach, the research was constructed within a case study design. The data was collected via semi-structured interviews, targeting information about the diversity of AI writing tools and their impact on students” writing quality. The study gathered data from four EFL teachers across three distinct universities in Indonesia, shedding light on the variety of AI writing tools used in their classrooms. These included applications like Quillbot, WordTune, Jenni, Chat-GPT, Paperpal, Copy.ai, and Essay Writer. Furthermore, these teachers unanimously agreed that the AI writing tools positively improved their students’ writing quality, particularly enhancing the quality of their content and organization. The findings of this study imply that integrating AI writing tools can prove beneficial in elevating the quality of EFL student writing. In response to this study’s limitations, recommendations for future research were also addressed.
+JF  - Cogent Education
+AU  - Marzuki
+AU  - Utami Widiati
+AU  - Rusdin, Diyenti
+AU  - Darwin
+AU  - Inda Indrawati
+AD  - English Language Education, Universitas Madako Tolitoli, Tolitoli, Central Sulawesi, Indonesia ; English Language Education, Universitas Negeri Malang, Malang, East Java, Indonesia ; English Language Education, Universitas Madako Tolitoli, Tolitoli, Central Sulawesi, Indonesia
+Y1  - 2023/12//
+PY  - 2023
+DA  - Dec 2023
+CY  - Abingdon
+PB  - Taylor & Francis Ltd.
+PP  - Abingdon
+VL  - 10
+IS  - 2
+KW  - Education
+KW  - impact of AI writing tools
+KW  - writing skill
+KW  - content and organization
+KW  - Interviews
+KW  - English as a second language
+KW  - English teachers
+KW  - Case studies
+KW  - Teacher attitudes
+KW  - Second language teachers
+KW  - Chat
+KW  - Second language writing
+KW  - English as a second language instruction
+KW  - Student writing
+KW  - Artificial intelligence
+KW  - English (Second Language)
+KW  - Semi Structured Interviews
+KW  - English Teachers
+KW  - Language Teachers
+KW  - Computer Assisted Instruction
+KW  - Universities
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/impact-ai-writing-tools-on-content-organization/docview/2902246659/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=The+impact+of+AI+writing+tools+on+the+content+and+organization+of+students%26rsquo%3B+writing%3A+EFL+teachers%26rsquo%3B+perspective&title=Cogent+Education&issn=&date=2023-12-01&volume=10&issue=2&spage=&au=Marzuki%3BUtami+Widiati%3BRusdin%2C+Diyenti%3BDarwin%3BInda+Indrawati&isbn=&jtitle=Cogent+Education&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1080%2F2331186X.2023.2236469
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. This work is licensed under the Creative Commons Attribution License http://creativecommons.org/licenses/by/4.0/ (the “License”).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-16
+N1  - SubjectsTermNotLitGenreText - Semi Structured Interviews; Language Teachers; Interviews; English (Second Language); Universities; English Teachers; Computer Assisted Instruction
+DO  - https://doi.org/10.1080/2331186X.2023.2236469
+L1  - https://media.proquest.com/media/hms/PFT/1/P8PhW?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDQzMjk3MgoyOTAyMjQ2NjU5Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMTIvMDFyCjIwMjMvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=KEJrwYCkNOmoFhgokzLGe2a3%2BSE%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - “Somewhere along your pedigree, a bitch got over the wall!” A proposal of implicitly offensive language typology
+AN  - 2900648201
+AB  - The automatic detection of implicitly offensive language is a challenge for NLP, as such language is subtle, contextual, and plausibly deniable, but it is becoming increasingly important with the wider use of large language models to generate human-quality texts. This study argues that current difficulties in detecting implicit offence are exacerbated by multiple factors: (a) inadequate definitions of implicit and explicit offense; (b) an insufficient typology of implicit offence; and (c) a dearth of detailed analysis of implicitly offensive linguistic data. In this study, based on a qualitative analysis of an implicitly offensive dataset, a new typology of implicitly offensive language is proposed along with a detailed, example-led account of the new typology, an operational definition of implicitly offensive language, and a thorough analysis of the role of figurative language and humour in each type. Our analyses identify three main issues with previous datasets and typologies used in NLP approaches: (a) conflating content and form in the annotation; (b) treating figurativeness, particularly metaphor, as the main device of implicitness, while ignoring its equally important role in the explicit offence; and (c) an over-focus on form-specific datasets (e.g. focusing only on offensive comparisons), which fails to reflect the full complexity of offensive language use.
+JF  - Lodz Papers in Pragmatics
+AU  - Despot, Kristina Š
+AU  - Anić, Ana Ostroški
+AU  - Veale, Tony
+AD  - Institute for the Croatian Language Republike Austrije 16 10000 Zagreb, Croatia ; University College Dublin, School of Computer Science Comp Science and Informatics Belfield Dublin 4, Ireland ; Institute for the Croatian Language Republike Austrije 16 10000 Zagreb, Croatia
+Y1  - 2023
+PY  - 2023
+DA  - 2023
+SP  - 385
+EP  - 414
+CY  - Lodz
+PB  - Walter de Gruyter GmbH
+PP  - Lodz
+VL  - 19
+IS  - 2
+SN  - 18956106
+KW  - Linguistics
+KW  - implicit offence
+KW  - implicitly offensive language
+KW  - typology
+KW  - metaphor
+KW  - humour
+KW  - impoliteness triggers
+KW  - Language
+KW  - Qualitative research
+KW  - Language usage
+KW  - Language modeling
+KW  - Language typology
+KW  - Rhetorical figures
+KW  - Humor
+KW  - Politeness
+KW  - Hate speech
+KW  - Sentiment analysis
+KW  - Verbal aggression
+KW  - Metaphor
+KW  - Natural language processing
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/somewhere-along-your-pedigree-bitch-got-over-wall/docview/2900648201/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=%26ldquo%3BSomewhere+along+your+pedigree%2C+a+bitch+got+over+the+wall%21%26rdquo%3B+A+proposal+of+implicitly+offensive+language+typology&title=Lodz+Papers+in+Pragmatics&issn=18956106&date=2023-07-01&volume=19&issue=2&spage=385&au=Despot%2C+Kristina+%C5%A0%3BAni%C4%87%2C+Ana+Ostro%C5%A1ki%3BVeale%2C+Tony&isbn=&jtitle=Lodz+Papers+in+Pragmatics&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1515%2Flpp-2023-0019
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2023 Walter de Gruyter GmbH, Berlin/Boston
+N1  - Last updated - 2024-01-04
+DO  - https://doi.org/10.1515/lpp-2023-0019
+L1  - https://media.proquest.com/media/hms/PFT/1/yXCaW?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDM4ODg5MgoyOTAwNjQ4MjAxOg1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMDcvMDFyCjIwMjMvMTIvMzF6AIIBKVAtMTAwOTczMC0xNDcwMS1DVVNUT01FUi0xMDAwMDM1Ny02MTY1NjA0kgEGT25saW5lygF1TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM20gESU2Nob2xhcmx5IEpvdXJuYWxzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAg9BcnRpY2xlfEZlYXR1cmXSAgFZ8gIA%2BgIBToIDA1dlYooDHENJRDoyMDI0MDUwNDIxMDYyNTYzODoxOTA1MzQ%3D&_s=hCxQbLvUIZlRw%2FW%2FbuJ4sD12sCI%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - THE USE OF CHATGPT IN ACADEMIC WRITING: A BLESSING OR A CURSE IN DISGUISE?
+AN  - 2884348548
+AB  - The emergence of generative artificial intelligence such as ChatGPT has left people feeling ambivalent and disagreement among scholars, academicians, educators and the community at large prevails. While the artificial intelligence could potentially revolutionize how research is conducted and how research papers are written, a number of ethical concerns arise. In particular, the world of academia has reservations pertaining to whether this language model will actually do more good than harm, especially as far as academic writing is concerned. This paper argues that the cutting-edge technology is here to stay and the question is not whether to accept it, but rather, how to best utilize it judiciously, cautiously and responsibly to improve research performance by strictly adhering to academic integrity and transparency. Potential benefits and drawbacks of ChatGPT will be critically examined in light of current literature and, when relevant, potential solutions to the drawbacks will also be provided or commented on. Needless to say, the use of artificial intelligence in academic writing is still in its infancy and more discussion and debates pertaining to its use and merit are highly urged. This paper contributes to these on-going debates.
+JF  - TEFLIN Journal
+AU  - Alberth
+AD  - Universitas Halu Oleo, Kampus Hijau Bumi Tridharma, Anduonohu, Kendari, Southeast Sulawesi 93232, Indonesia ; Universitas Halu Oleo, Kampus Hijau Bumi Tridharma, Anduonohu, Kendari, Southeast Sulawesi 93232, Indonesia
+Y1  - 2023/07//
+PY  - 2023
+DA  - Jul 2023
+SP  - 337
+EP  - 352
+CY  - Malang
+PB  - State University of Malang, English Department, Faculty of Letters
+PP  - Malang
+VL  - 34
+IS  - 2
+SN  - 0215773X
+KW  - Linguistics
+KW  - Academic writing
+KW  - Research
+KW  - Language
+KW  - Ethics
+KW  - Human-computer interaction
+KW  - Writing
+KW  - Artificial intelligence
+KW  - Language modeling
+KW  - Debates
+KW  - Education
+KW  - Chatbots
+KW  - Language Processing
+KW  - Academic Language
+KW  - Artificial Intelligence
+KW  - Authors
+KW  - Content Area Writing
+KW  - Research Methodology
+KW  - Thinking Skills
+KW  - Writing Instruction
+KW  - Data Analysis
+KW  - Literature Reviews
+KW  - Writing Processes
+KW  - Text Structure
+KW  - Integrity
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/use-chatgpt-academic-writing-blessing-curse/docview/2884348548/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=THE+USE+OF+CHATGPT+IN+ACADEMIC+WRITING%3A+A+BLESSING+OR+A+CURSE+IN+DISGUISE%3F&title=TEFLIN+Journal&issn=0215773X&date=2023-07-01&volume=34&issue=2&spage=337&au=Alberth&isbn=&jtitle=TEFLIN+Journal&btitle=&rft_id=info:eric/&rft_id=info:doi/10.15639%2Fteflinjournal.v34i2%2F337-352
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2023. This work is published under https://creativecommons.org/licenses/by-sa/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-16
+N1  - SubjectsTermNotLitGenreText - Academic Language; Data Analysis; Literature Reviews; Integrity; Writing Processes; Content Area Writing; Ethics; Authors; Thinking Skills; Artificial Intelligence; Writing Instruction; Language Processing; Text Structure; Research Methodology
+DO  - https://doi.org/10.15639/teflinjournal.v34i2/337-352
+L1  - https://media.proquest.com/media/hms/PFT/1/J8K5W?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDM0NDk3MgoyODg0MzQ4NTQ4Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMDcvMDFyCjIwMjMvMDcvMzF6AIIBKVAtMTAwOTczMC0xNDcwMS1DVVNUT01FUi0xMDAwMDM1Ny02MTY1NjA0kgEGT25saW5lygF1TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM20gESU2Nob2xhcmx5IEpvdXJuYWxzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAg9BcnRpY2xlfEZlYXR1cmXSAgFZ8gIA%2BgIBWYIDA1dlYooDHENJRDoyMDI0MDUwNDIxMDYyNTYzODoxOTA1MzQ%3D&_s=bzZ7F9ofgXtvYSiT4q8Ctf8ZuwA%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - THE ROLE OF ARTIFICIAL INTELLIGENCE IN TEACHING ENGLISH FOR SPECIFIC PURPOSES
+AN  - 2876732384
+AB  - Globalization and technological breakthroughs have determined the emergence of new jobs and, thus, professional terminologies have enriched with new terms related to work tasks. The development of professional terminologies requires terminology updates, therefore the teaching methodology of English for Specific Purposes (ESP) has to be constantly improved, according to the realities in a profession or industry. The aim of this paper is to highlight the role of ChatGPT in the ESP teacher's methodology. I analyzed this Al language model, taking account of the linguistic features of our digital discourse. The findings suggest that ChatGPT can be a useful tool in planning lessons and assessing students' linguistic competence.
+JF  - Journal of Information Systems & Operations Management
+AU  - Coancă, Mariana
+AD  - PhD, Associate Professor, Romanian-American University ; PhD, Associate Professor, Romanian-American University
+Y1  - 2023///Summer
+PY  - 2023
+DA  - Summer 2023
+SP  - 74
+EP  - 82
+CY  - Bucharest
+PB  - Romanian-American University, Scientific Research Department
+PP  - Bucharest
+VL  - 17
+IS  - 1
+SN  - 18434711
+KW  - Technology: Comprehensive Works
+KW  - English for special purposes
+KW  - Language
+KW  - Linguistics
+KW  - Globalization
+KW  - Students
+KW  - Human-computer interaction
+KW  - Linguistic competence
+KW  - Collaboration
+KW  - Teaching methods
+KW  - Artificial intelligence
+KW  - Communication
+KW  - Chatbots
+KW  - Terminology
+KW  - Cognitive style
+KW  - Professionals
+KW  - Foreign language learning
+KW  - Language modeling
+KW  - English language
+KW  - Digital literacy
+KW  - Semantics
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/role-artificial-intelligence-teaching-english/docview/2876732384/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=THE+ROLE+OF+ARTIFICIAL+INTELLIGENCE+IN+TEACHING+ENGLISH+FOR+SPECIFIC+PURPOSES&title=Journal+of+Information+Systems+%26+Operations+Management&issn=18434711&date=2023-07-01&volume=17&issue=1&spage=74&au=Coanc%C4%83%2C+Mariana&isbn=&jtitle=Journal+of+Information+Systems+%26+Operations+Management&btitle=&rft_id=info:eric/&rft_id=info:doi/
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - Copyright Romanian-American University, Scientific Research Department Summer 2023
+N1  - Last updated - 2023-10-14
+L1  - https://media.proquest.com/media/hms/PFT/1/BV6qV?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcxMjE2MzY2MgoyODc2NzMyMzg0Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMDcvMDFyCjIwMjMvMDkvMzB6AIIBKVAtMTAwOTkyNC0xMjk0MS1DVVNUT01FUi0xMDAwMDM2OS02Njk4NTc2kgEGT25saW5lygF1TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNC4wLjAuMCBTYWZhcmkvNTM3LjM20gESU2Nob2xhcmx5IEpvdXJuYWxzmgIHUHJlUGFpZKoCK09TOkVNUy1NZWRpYUxpbmtzU2VydmljZS1nZXRNZWRpYVVybEZvckl0ZW3KAg9BcnRpY2xlfEZlYXR1cmXSAgFZ8gIA%2BgIBToIDA1dlYooDHENJRDoyMDI0MDUwNDIxMDYyNTYzODoxOTA1MzQ%3D&_s=WATnWPytJ4NUNjmknEUObsOwb9g%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - The Human and Machine, 2022-23 OpenAI, ChatGPT, Quillbot, Grammarly, Google, Google Docs & humans
+AN  - 2823697562
+AB  - With the release of generative text and image-based tools like Midjourney and ChatGPT in 2022, discussions about artificial intelligence (AI) and its impact on design, design education, and research have moved from the periphery to the forefront. These powerful tools, often open-access beta versions, have transformed speculative dialogue into a present reality. Their sophisticated and intuitive user interfaces facilitate the speedy and proficient generation of text, and image-based content, enabling designers, educators, and learners to simultaneously discover the dangers and possibilities of generative AI technologies. To explore the unique powers of both generative AI and human cognition, the author uses autoethnography, AI writing assistants, and generative AI technology to develop a story of practice. The narrative is informed by, and ultimately supports the scholarly literature that emphasizes the need for humans to take responsibility for the equitable and ethical use of AI. This includes initiating and guiding AI systems, critically evaluating their responses, and reformulating, editing, and verifying outputs to address factual inaccuracies, misleading information, or offensive and biased content.
+JF  - Visible Language
+AU  - Ellerton, Wendy
+Y1  - 2023/04//
+PY  - 2023
+DA  - Apr 2023
+SP  - 38
+EP  - 52
+CY  - Cincinnati
+PB  - University of Cincinnati on behalf of Visible Language
+PP  - Cincinnati
+VL  - 57
+IS  - 1
+SN  - 00222224
+KW  - Humanities: Comprehensive Works
+KW  - Design
+KW  - Ethics
+KW  - Human-computer interaction
+KW  - Writing
+KW  - Artificial intelligence
+KW  - Communication
+KW  - Technology
+KW  - Autoethnography
+KW  - Pandemics
+KW  - COVID-19
+KW  - Thinking Skills
+KW  - Sentence Structure
+KW  - Academic Language
+KW  - Computer Simulation
+KW  - Artificial Intelligence
+KW  - Authors
+KW  - Communication (Thought Transfer)
+KW  - Feedback (Response)
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/human-machine-2022-23-openai-chatgpt-quillbot/docview/2823697562/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=The+Human+and+Machine%2C+2022-23+OpenAI%2C+ChatGPT%2C+Quillbot%2C+Grammarly%2C+Google%2C+Google+Docs+%26amp%3B+humans&title=Visible+Language&issn=00222224&date=2023-04-01&volume=57&issue=1&spage=38&au=Ellerton%2C+Wendy&isbn=&jtitle=Visible+Language&btitle=&rft_id=info:eric/&rft_id=info:doi/
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Name - OpenAI; Google Inc
+N1  - Copyright - Copyright University of Cincinnati on behalf of Visible Language Apr 2023
+N1  - Last updated - 2024-04-16
+N1  - SubjectsTermNotLitGenreText - Computer Simulation; Academic Language; Communication (Thought Transfer); Authors; Thinking Skills; Artificial Intelligence; Sentence Structure; Feedback (Response)
+L1  - https://media.proquest.com/media/hms/PFT/1/W4EuR?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgU0ODU2NjIKMjgyMzY5NzU2MjoNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDIzLzA0LzAxcgoyMDIzLzA0LzMwegCCASlQLTEwMDk3MzAtMTQ3MDEtQ1VTVE9NRVItMTAwMDAzNTctNjE2NTYwNJIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAU6CAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=5x%2BSiuBJxATVJnl1Qn0FCNr9JK8%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Computers’ Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models
+AN  - 2904634453
+AB  - Pre-conceptual schemas are a straightforward way to represent knowledge using controlled language regardless of context. Despite the benefits of using pre-conceptual schemas by humans, they present challenges when interpreted by computers. We propose an approach to making computers able to interpret the basic pre-conceptual schemas made by humans. To do that, the construction of a linguistic corpus is required to work with large language models—LLM. The linguistic corpus was mainly fed using Master’s and doctoral theses from the digital repository of the University of Nariño to produce a training dataset for re-training the BERT model; in addition, we complement this by explaining the elicited sentences in triads from the pre-conceptual schemas using one of the cutting-edge large language models in natural language processing: Llama 2-Chat by Meta AI. The diverse topics covered in these theses allowed us to expand the spectrum of linguistic use in the BERT model and empower the generative capabilities using the fine-tuned Llama 2-Chat model and the proposed solution. As a result, the first version of a computational solution was built to consume the language models based on BERT and Llama 2-Chat and thus automatically interpret pre-conceptual schemas by computers via natural language processing, adding, at the same time, generative capabilities. The validation of the computational solution was performed in two phases: the first one for detecting sentences and interacting with pre-conceptual schemas with students in the Formal Languages and Automata Theory course—the seventh semester of the systems engineering undergraduate program at the University of Nariño’s Tumaco campus. The second phase was for exploring the generative capabilities based on pre-conceptual schemas; this second phase was performed with students in the Object-oriented Design course—the second semester of the systems engineering undergraduate program at the University of Nariño’s Tumaco campus. This validation yielded favorable results in implementing natural language processing using the BERT and Llama 2-Chat models. In this way, some bases were laid for future developments related to this research topic.
+JF  - Big Data and Cognitive Computing
+AU  - Insuasti, Jesus
+AU  - Roa, Felipe
+AU  - Zapata-Jaramillo, Carlos Mario
+AD  - Systems Engineering Department, University of Nariño, Pasto 520001, Colombia; feliperoa@udenar.edu.co ; Computer and Decision Science Department, Universidad Nacional de Colombia, Medellín 050034, Colombia; cmzapata@unal.edu.co ; Systems Engineering Department, University of Nariño, Pasto 520001, Colombia; feliperoa@udenar.edu.co
+Y1  - 2023
+PY  - 2023
+DA  - 2023
+SP  - 182
+CY  - Basel
+PB  - MDPI AG
+PP  - Basel
+VL  - 7
+IS  - 4
+KW  - Computers--Electronic Data Processing
+KW  - pre-conceptual schema
+KW  - computational linguistics
+KW  - linguistic corpus
+KW  - language models
+KW  - Schemas
+KW  - Research
+KW  - Language
+KW  - Datasets
+KW  - Computerized corpora
+KW  - Formal languages
+KW  - Chat
+KW  - Corpus linguistics
+KW  - Dissertations & theses
+KW  - Theses
+KW  - Knowledge representation
+KW  - Colleges & universities
+KW  - Students
+KW  - Training
+KW  - Linguistics
+KW  - Systems engineering
+KW  - Large language models
+KW  - Artificial intelligence
+KW  - Automata theory
+KW  - Natural language processing
+KW  - Topics
+KW  - Object-oriented languages
+KW  - Literature reviews
+KW  - Language modeling
+KW  - Enhanced oil recovery
+KW  - Sentences
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/computers-interpretations-knowledge/docview/2904634453/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Computers%26rsquo%3B+Interpretations+of+Knowledge+Representation+Using+Pre-Conceptual+Schemas%3A+An+Approach+Based+on+the+BERT+and+Llama+2-Chat+Models&title=Big+Data+and+Cognitive+Computing&issn=&date=2023-01-01&volume=7&issue=4&spage=182&au=Insuasti%2C+Jesus%3BRoa%2C+Felipe%3BZapata-Jaramillo%2C+Carlos+Mario&isbn=&jtitle=Big+Data+and+Cognitive+Computing&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3390%2Fbdcc7040182
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2023 by the authors.  Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2023-12-22
+DO  - https://doi.org/10.3390/bdcc7040182
+L1  - https://media.proquest.com/media/hms/PFT/1/lK6mW?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDYxNzc3MgoyOTA0NjM0NDUzOg1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMDEvMDFyCjIwMjMvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=ZbV%2FtgTKopXXdgKHFGzmSupcMGU%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Replika AI: Technological Affect and General AI Imaginations
+AN  - 2871782958
+AB  - This article aims to examine the role of affect in the functioning and marketing of AI chatbots, specifically Replika AI. Conducting an interpretive case study, the article delves into how this labor is generated and distributed. Interestingly, Replika AI is presented as the personal project of a female engineer in a sector where female work is notably scarce. The chatbot appeals to a demographic that also contributes to its machine learning database, aiming to develop a form of generalized AI. As Replika AI evolves toward self-consciousness, it poses emotionally charged questions like “am I lovable?” and employs mainstream comforting techniques. It also gamifies gathering responses to these questions, thereby creating a customized database. Through this, platforms like Replika AI underscore the importance of unpaid, affective labor in capitalist production. This raises crucial questions about the valuation of labor beyond monetary compensation. However, it also masks the exploitative aspects of labor in the digital economy, specifically the unpaid contributions from audiences. It further enforces gender and racial stereotypes through its training data and functionalities. These issues not only problematize the ethical considerations in AI training, especially about data representation, but also highlight the necessity for a nuanced understanding of data that incorporates emotion alongside structured knowledge.
+JF  - The International Journal of Communication and Linguistic Studies
+AU  - Kourkoulou, Dora
+Y1  - 2023
+PY  - 2023
+DA  - 2023
+SP  - 73
+EP  - 86
+CY  - Madrid
+PB  - Common Ground Research Networks
+PP  - Madrid
+VL  - 21
+IS  - 2
+SN  - 23277882
+KW  - Linguistics
+KW  - Social Chatbots
+KW  - Critical Code Studies
+KW  - Affect
+KW  - General AI
+KW  - Questions
+KW  - Ethics
+KW  - Human-computer interaction
+KW  - Databases
+KW  - Stereotypes
+KW  - Females
+KW  - Case studies
+KW  - Machine learning
+KW  - Artificial intelligence
+KW  - Feminism
+KW  - Marketing
+KW  - Effigies
+KW  - Algorithms
+KW  - Mythology
+KW  - Emotions
+KW  - Chatbots
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/replika-ai-technological-affect-general/docview/2871782958/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Replika+AI%3A+Technological+Affect+and+General+AI+Imaginations&title=The+International+Journal+of+Communication+and+Linguistic+Studies&issn=23277882&date=2023-01-01&volume=21&issue=2&spage=73&au=Kourkoulou%2C+Dora&isbn=&jtitle=The+International+Journal+of+Communication+and+Linguistic+Studies&btitle=&rft_id=info:eric/&rft_id=info:doi/10.18848%2F2327-7882%2FCGP%2Fv21i02%2F73-86
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - Copyright © 2023, Common Ground Research Networks, All Rights Reserved
+N1  - Last updated - 2023-10-18
+DO  - https://doi.org/10.18848/2327-7882/CGP/v21i02/73-86
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Creative Use of OpenAI in Education: Case Studies from Game Development
+AN  - 2857405864
+AB  - Educators and students have shown significant interest in the potential for generative artificial intelligence (AI) technologies to support student learning outcomes, for example, by offering personalized experiences, 24 h conversational assistance, text editing and help with problem-solving. We review contemporary perspectives on the value of AI as a tool in an educational context and describe our recent research with undergraduate students, discussing why and how we integrated OpenAI tools ChatGPT and Dall-E into the curriculum during the 2022–2023 academic year. A small cohort of games programming students in the School of Computing and Digital Media at London Metropolitan University was given a research and development assignment that explicitly required them to engage with OpenAI. They were tasked with evaluating OpenAI tools in the context of game development, demonstrating a working solution and reporting on their findings. We present five case studies that showcase some of the outputs from the students and we discuss their work. This mode of assessment was both productive and popular, mapping to students’ interests and helping to refine their skills in programming, problem-solving, critical reflection and exploratory design.
+JF  - Multimodal Technologies and Interaction
+AU  - French, Fiona
+AU  - Levi, David
+AU  - Maczo, Csaba
+AU  - Simonaityte, Aiste
+AU  - Triantafyllidis, Stefanos
+AU  - Gergo Varda
+Y1  - 2023
+PY  - 2023
+DA  - 2023
+SP  - 81
+CY  - Basel
+PB  - MDPI AG
+PP  - Basel
+VL  - 7
+IS  - 8
+KW  - Computers--Cybernetics
+KW  - artificial intelligence
+KW  - OpenAI
+KW  - ChatGPT
+KW  - Dall-E
+KW  - LLM
+KW  - procedural generation
+KW  - interaction design
+KW  - game design
+KW  - game programming
+KW  - education
+KW  - Word processing
+KW  - Problem solving
+KW  - Students
+KW  - Case studies
+KW  - Context
+KW  - College students
+KW  - Research & development--R&D
+KW  - Education
+KW  - Learning environment
+KW  - Teachers
+KW  - Chatbots
+KW  - Cognition & reasoning
+KW  - Colleges & universities
+KW  - Artificial intelligence
+KW  - Motivation
+KW  - Second language learning
+KW  - Learning outcomes
+KW  - Undergraduate study
+KW  - Algorithms
+KW  - Generative artificial intelligence
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/creative-use-openai-education-case-studies-game/docview/2857405864/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Creative+Use+of+OpenAI+in+Education%3A+Case+Studies+from+Game+Development&title=Multimodal+Technologies+and+Interaction&issn=&date=2023-01-01&volume=7&issue=8&spage=81&au=French%2C+Fiona%3BLevi%2C+David%3BMaczo%2C+Csaba%3BSimonaityte%2C+Aiste%3BTriantafyllidis%2C+Stefanos%3BGergo+Varda&isbn=&jtitle=Multimodal+Technologies+and+Interaction&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3390%2Fmti7080081
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Name - OpenAI
+N1  - Copyright - © 2023 by the authors.  Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2023-12-04
+DO  - https://doi.org/10.3390/mti7080081
+L1  - https://media.proquest.com/media/hms/PFT/1/pHOYU?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDU5NTQ4MgoyODU3NDA1ODY0Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMDEvMDFyCjIwMjMvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=SyL7d%2Bo1Njwdd1JmVu8VitlLHwE%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Escritura, creatividad e inteligencia artificial. ChatGPT en el contexto universitario
+TT  - Writing, creativity, and artificial intelligence. ChatGPT in the university context
+AN  - 2849305546
+AB  - The main objectiveof the research istostudy the creative potentialof Artificial Intelligence (AI) for writing skillsinan educational context. The research aimstoprovide evidenceonthe useofAIand contributetoits integrationinthe classroomasasupport for the teaching-learning process. Two typesofresearch designs were established: adescriptive and comparative non-experimental quantitative research, andaquasi-experimental pretest-posttest study. The sample consisted of20AIsystems and 193 university students who were given Games2and 3of the Spanish PIC-A test ("Creative Imagination Test for Adults"). The students repeated the games, assistedbyChatGPT,tocompare the possible improvement of their productions. The findings reveal statistically significant differences between the AIs and the studentsinthe indicators of fluency, flexibility, and narrative originality in Game 2. Furthermore, significant differences are found between students' pre-test and post-test scoresinfluency, flexibility, and narrative originality in Game2 andinfluencyinGame3. Finally, the assistance providedby AI in writing tasks and verbal creativity ishighlighted, and this shouldbe consideredinlanguage teaching;inany case,AIcannot replace human intelligence and creativity.
+JF  - Comunicar
+AU  - de Vicente-Yagüe-Jara, María-Isabel
+AU  - López-Martínez, Olivia
+AU  - Navarro-Navarro, Verónica
+AU  - Cuéllar-Santiago, Francisco
+AD  - Profesora Titular, Departamento de Didáctica de la Lengua y la Literatura, Universidad de Murcia (España) ; Profesora Titular, Departamento de Psicología Evolutiva y de la Educación, Universidad de Murcia (España) ; Profesora Ayudante Doctora, Departamento de Historia del Arte-Bellas Artes, Universidad de Salamanca (España) ; Profesor Ayudante Doctor, Departamento de Arte, Universidad Miguel Hernández de Elche (España) ; Profesora Titular, Departamento de Didáctica de la Lengua y la Literatura, Universidad de Murcia (España)
+ET  - Spanish ed.
+Y1  - 2023
+PY  - 2023
+DA  - 2023
+SP  - 47
+EP  - 57
+CY  - Huelva
+PB  - Grupo Comunicar
+PP  - Huelva
+VL  - 31
+IS  - 77
+SN  - 11343478
+KW  - Education
+KW  - Pretest–Posttest design
+KW  - Quantitative research
+KW  - Creativity
+KW  - Writing
+KW  - Spanish language
+KW  - Artificial intelligence
+KW  - Language modeling
+KW  - Learning environment
+KW  - College students
+KW  - Language instruction
+KW  - Chatbots
+KW  - Educational technology
+KW  - Language Processing
+KW  - College Students
+KW  - Imagination
+KW  - Artificial Intelligence
+KW  - Natural Language Processing
+KW  - Teaching Methods
+KW  - Learning Processes
+KW  - Computer Assisted Instruction
+KW  - Statistical Analysis
+KW  - Pretests Posttests
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/escritura-creatividad-e-inteligencia-artificial/docview/2849305546/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Escritura%2C+creatividad+e+inteligencia+artificial.+ChatGPT+en+el+contexto+universitario&title=Comunicar&issn=11343478&date=2023-01-01&volume=31&issue=77&spage=47&au=de+Vicente-Yag%C3%BCe-Jara%2C+Mar%C3%ADa-Isabel%3BL%C3%B3pez-Mart%C3%ADnez%2C+Olivia%3BNavarro-Navarro%2C+Ver%C3%B3nica%3BCu%C3%A9llar-Santiago%2C+Francisco&isbn=&jtitle=Comunicar&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3916%2FC77-2023-04
+LA  - Spanish
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Name - United Nations Educational Scientific & Cultural Organization
+N1  - Copyright - © 2023. This work is published under https://creativecommons.org/licenses/by-nc/3.0/legalcode (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2024-04-16
+N1  - SubjectsTermNotLitGenreText - Imagination; Teaching Methods; Learning Processes; Pretests Posttests; College Students; Natural Language Processing; Artificial Intelligence; Creativity; Statistical Analysis; Language Processing; Computer Assisted Instruction
+DO  - https://doi.org/10.3916/C77-2023-04
+L1  - https://media.proquest.com/media/hms/PFT/1/a1Y3U?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgYyMTYxOTcyCjI4NDkzMDU1NDY6DURvY3VtZW50SW1hZ2VCATBSBk9ubGluZVoCRlRiA1BGVGoKMjAyMy8wMS8wMXIKMjAyMy8xMi8zMXoAggElUC0xMDA3NTcyLTE0NzAxLUNVU1RPTUVSLW51bGwtNDUwMTM4MZIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=Xb%2BX3UFb3inCZEbrMUh%2FX%2B36br4%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - The Role of ChatGPT in Data Science: How AI-Assisted Conversational Interfaces Are Revolutionizing the Field
+AN  - 2829699489
+AB  - ChatGPT, a conversational AI interface that utilizes natural language processing and machine learning algorithms, is taking the world by storm and is the buzzword across many sectors today. Given the likely impact of this model on data science, through this perspective article, we seek to provide an overview of the potential opportunities and challenges associated with using ChatGPT in data science, provide readers with a snapshot of its advantages, and stimulate interest in its use for data science projects. The paper discusses how ChatGPT can assist data scientists in automating various aspects of their workflow, including data cleaning and preprocessing, model training, and result interpretation. It also highlights how ChatGPT has the potential to provide new insights and improve decision-making processes by analyzing unstructured data. We then examine the advantages of ChatGPT’s architecture, including its ability to be fine-tuned for a wide range of language-related tasks and generate synthetic data. Limitations and issues are also addressed, particularly around concerns about bias and plagiarism when using ChatGPT. Overall, the paper concludes that the benefits outweigh the costs and ChatGPT has the potential to greatly enhance the productivity and accuracy of data science workflows and is likely to become an increasingly important tool for intelligence augmentation in the field of data science. ChatGPT can assist with a wide range of natural language processing tasks in data science, including language translation, sentiment analysis, and text classification. However, while ChatGPT can save time and resources compared to training a model from scratch, and can be fine-tuned for specific use cases, it may not perform well on certain tasks if it has not been specifically trained for them. Additionally, the output of ChatGPT may be difficult to interpret, which could pose challenges for decision-making in data science applications.
+JF  - Big Data and Cognitive Computing
+AU  - Hassani, Hossein
+AU  - Silva, Emmanuel Sirmal
+AD  - The Research Institute of Energy Management and Planning (RIEMP), University of Tehran, Tehran 19395-4697, Iran ; Fashion Business School, London College of Fashion, University of the Arts London, London W1G 0BJ, UK ; The Research Institute of Energy Management and Planning (RIEMP), University of Tehran, Tehran 19395-4697, Iran
+Y1  - 2023
+PY  - 2023
+DA  - 2023
+SP  - 62
+CY  - Basel
+PB  - MDPI AG
+PP  - Basel
+VL  - 7
+IS  - 2
+KW  - Computers--Electronic Data Processing
+KW  - ChatGPT
+KW  - data science
+KW  - synthetic data
+KW  - natural language processing
+KW  - opportunities
+KW  - challenges
+KW  - bias
+KW  - plagiarism
+KW  - programming
+KW  - data analysis
+KW  - ethics
+KW  - Language
+KW  - Text categorization
+KW  - Scientists
+KW  - Deep learning
+KW  - Trends
+KW  - Chatbots
+KW  - Machine learning
+KW  - Workflow
+KW  - Data science
+KW  - Plagiarism
+KW  - Privacy
+KW  - Decision making
+KW  - Language translation
+KW  - Algorithms
+KW  - Training
+KW  - Big Data
+KW  - Decision analysis
+KW  - Data mining
+KW  - Artificial intelligence
+KW  - Sentiment analysis
+KW  - Neural networks
+KW  - Natural language processing
+KW  - Unstructured data
+KW  - Synthetic data
+KW  - Conversation
+KW  - Conversational artificial intelligence
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/role-chatgpt-data-science-how-ai-assisted/docview/2829699489/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=The+Role+of+ChatGPT+in+Data+Science%3A+How+AI-Assisted+Conversational+Interfaces+Are+Revolutionizing+the+Field&title=Big+Data+and+Cognitive+Computing&issn=&date=2023-01-01&volume=7&issue=2&spage=62&au=Hassani%2C+Hossein%3BSilva%2C+Emmanuel+Sirmal&isbn=&jtitle=Big+Data+and+Cognitive+Computing&btitle=&rft_id=info:eric/&rft_id=info:doi/10.3390%2Fbdcc7020062
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Name - OpenAI
+N1  - Copyright - © 2023 by the authors.  Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).  Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2023-12-04
+DO  - https://doi.org/10.3390/bdcc7020062
+L1  - https://media.proquest.com/media/hms/PFT/1/9eMUS?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgcyMDYxNzc3MgoyODI5Njk5NDg5Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjMvMDEvMDFyCjIwMjMvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=ROUsuMN47JhsCzVStiKhXUEjoSg%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Neural Natural Language Generation: A Survey on Multilinguality, Multimodality, Controllability and Learning
+AN  - 2657529167
+AB  - Developing artificial learning systems that can understand and generate natural language has been one of the long-standing goals of artificial intelligence. Recent decades have witnessed an impressive progress on both of these problems, giving rise to a new family of approaches. Especially, the advances in deep learning over the past couple of years have led to neural approaches to natural language generation (NLG). These methods combine generative language learning techniques with neural-networks based frameworks. With a wide range of applications in natural language processing, neural NLG (NNLG) is a new and fast growing field of research. In this state-of-the-art report, we investigate the recent developments and applications of NNLG in its full extent from a multidimensional view, covering critical perspectives such as multimodality, multilinguality, controllability and learning strategies. We summarize the fundamental building blocks of NNLG approaches from these aspects and provide detailed reviews of commonly used preprocessing steps and basic neural architectures. This report also focuses on the seminal applications of these NNLG models such as machine translation, description generation, automatic speech recognition, abstractive summarization, text simplification, question answering and generation, and dialogue generation. Finally, we conclude with a thorough discussion of the described frameworks by pointing out some open research directions.
+JF  - The Journal of Artificial Intelligence Research
+AU  - Erdem, Erkut
+AU  - Kuyu, Menekse
+AU  - Yagcioglu, Semih
+AU  - Frank, Anette
+AU  - Parcalabescu, Letitia
+AU  - Plank, Barbara
+AU  - Babii, Andrii
+AU  - Turuta, Oleksii
+AU  - Erdem, Aykut
+AU  - Iacer Calixto
+AU  - Lloret, Elena
+AU  - Elena-Simona Apostol
+AU  - Ciprian-Octavian Truică
+AU  - Šandrih, Branislava
+AU  - Martinčić-Ipšić, Sanda
+AU  - Berend, Gábor
+AU  - Gatt, Albert
+AU  - Korvel, Grăzina
+Y1  - 2022
+PY  - 2022
+DA  - 2022
+SP  - 1131
+EP  - 1207
+CY  - San Francisco
+PB  - AI Access Foundation
+PP  - San Francisco
+VL  - 73
+SN  - 10769757
+KW  - Computers--Artificial Intelligence
+KW  - natural language
+KW  - Multilingualism
+KW  - Natural language generation
+KW  - Neural network
+KW  - Controllability
+KW  - Natural language
+KW  - Multimodality
+KW  - neural networks
+KW  - Language
+KW  - Machine translation
+KW  - Neural networks
+KW  - Deep learning
+KW  - Machine learning
+KW  - Artificial intelligence
+KW  - Natural language processing
+KW  - Automatic speech recognition
+KW  - Voice recognition
+KW  - Automatic text generation
+KW  - Speech recognition
+KW  - Summarization
+KW  - Learning strategies
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/neural-natural-language-generation-survey-on/docview/2657529167/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Neural+Natural+Language+Generation%3A+A+Survey+on+Multilinguality%2C+Multimodality%2C+Controllability+and+Learning&title=The+Journal+of+Artificial+Intelligence+Research&issn=10769757&date=2022-01-01&volume=73&issue=&spage=1131&au=Erdem%2C+Erkut%3BKuyu%2C+Menekse%3BYagcioglu%2C+Semih%3BFrank%2C+Anette%3BParcalabescu%2C+Letitia%3BPlank%2C+Barbara%3BBabii%2C+Andrii%3BTuruta%2C+Oleksii%3BErdem%2C+Aykut%3BIacer+Calixto%3BLloret%2C+Elena%3BElena-Simona+Apostol%3BCiprian-Octavian+Truic%C4%83%3B%C5%A0andrih%2C+Branislava%3BMartin%C4%8Di%C4%87-Ip%C5%A1i%C4%87%2C+Sanda%3BBerend%2C+G%C3%A1bor%3BGatt%2C+Albert%3BKorvel%2C+Gr%C4%83zina&isbn=&jtitle=The+Journal+of+Artificial+Intelligence+Research&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1613%2Fjair.1.12918
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Copyright - © 2022. Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the associated terms available at https://www.jair.org/index.php/jair/about
+N1  - Last updated - 2024-01-17
+DO  - https://doi.org/10.1613/jair.1.12918
+L1  - https://media.proquest.com/media/hms/PFT/1/p1ZhM?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43Kgc1MTYwNzIzMgoyNjU3NTI5MTY3Og1Eb2N1bWVudEltYWdlQgEwUgZPbmxpbmVaAkZUYgNQRlRqCjIwMjIvMDEvMDFyCjIwMjIvMTIvMzF6AIIBIVAtMTAwOTI0MC0xNDcwMS1GUkVFLW51bGwtNjQ1NTkwMpIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=OUNNowD5p6mDa5xVn9gu7H49CsM%3D
+ER  - 
+
+
+
+TY  - JOUR
+T1  - Exploring the fine-grained analysis and automatic detection of irony on Twitter
+AN  - 2008201219
+AB  - To push the state of the art in text mining applications, research in natural language processing has increasingly been investigating automatic irony detection, but manually annotated irony corpora are scarce. We present the construction of a manually annotated irony corpus based on a fine-grained annotation scheme that allows for identification of different types of irony. We conduct a series of binary classification experiments for automatic irony recognition using a support vector machine (SVM)  that exploits a varied feature set and compare this method to a deep learning approach that is based on an LSTM network and (pre-trained) word embeddings. Evaluation on a held-out corpus shows that the SVM model outperforms the neural network approach and benefits from combining lexical, semantic and syntactic information sources. A qualitative analysis of the classification output reveals that the classifier performance may be further enhanced by integrating implicit sentiment information and context- and user-based features.
+JF  - Language Resources and Evaluation
+AU  - Cynthia Van Hee
+AU  - Lefever, Els
+AU  - Hoste, Véronique
+AD  - LT3, Language and Translation Technology Team, Department of Translation, Interpreting and Communication,  Ghent University, Ghent, Belgium ; LT3, Language and Translation Technology Team, Department of Translation, Interpreting and Communication,  Ghent University, Ghent, Belgium
+Y1  - 2018/09//
+PY  - 2018
+DA  - Sep 2018
+SP  - 707
+EP  - 731
+CY  - Dordrect
+PB  - Springer Nature B.V.
+PP  - Dordrect
+VL  - 52
+IS  - 3
+SN  - 1574020X
+KW  - Humanities: Comprehensive Works--Computer Applications
+KW  - Verbal irony
+KW  - Machine learning
+KW  - Irony
+KW  - Twitter
+KW  - Sentiment analysis
+KW  - Deep learning
+KW  - Text mining
+KW  - Social media
+KW  - Automatic irony detection
+KW  - Qualitative analysis
+KW  - Data mining
+KW  - Classification
+KW  - Neural networks
+KW  - Information sources
+KW  - Computer mediated communication
+KW  - Support vector machines
+KW  - Texts
+KW  - Corpus linguistics
+KW  - Natural language processing
+KW  - Annotations
+KW  - Syntactic analysis
+KW  - Lexical semantics
+KW  - Semantic analysis
+KW  - Qualitative research
+UR  - https://login.proxy.bib.uottawa.ca/login?url=https://www.proquest.com/scholarly-journals/exploring-fine-grained-analysis-automatic/docview/2008201219/se-2?accountid=14701
+L2  - https://ocul-uo.primo.exlibrisgroup.com/openurl/01OCUL_UO/01OCUL_UO:UO_DEFAULT??url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Allba&atitle=Exploring+the+fine-grained+analysis+and+automatic+detection+of+irony+on+Twitter&title=Language+Resources+and+Evaluation&issn=1574020X&date=2018-09-01&volume=52&issue=3&spage=707&au=Cynthia+Van+Hee%3BLefever%2C+Els%3BHoste%2C+V%C3%A9ronique&isbn=&jtitle=Language+Resources+and+Evaluation&btitle=&rft_id=info:eric/&rft_id=info:doi/10.1007%2Fs10579-018-9414-2
+LA  - English
+DB  - Linguistics and Language Behavior Abstracts (LLBA)
+N1  - Name - Twitter Inc
+N1  - Copyright - Language Resources and Evaluation is a copyright of Springer, (2018). All Rights Reserved.; © 2018. This work is published under http://creativecommons.org/licenses/by/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.
+N1  - Last updated - 2023-12-04
+DO  - https://doi.org/10.1007/s10579-018-9414-2
+L1  - https://media.proquest.com/media/hms/PFT/1/m61j6?_a=ChgyMDI0MDUwNDIxMDYyNTYzODo1OTQ0MTcSBTk1NTY3GgpPTkVfU0VBUkNIIg0xNzQuMTE0LjIzMi43KgUyODc0MDIKMjAwODIwMTIxOToNRG9jdW1lbnRJbWFnZUIBMFIGT25saW5lWgJGVGIDUEZUagoyMDE4LzA5LzAxcgoyMDE4LzA5LzMwegCCASlQLTEwMDk3MzAtMTQ3MDEtQ1VTVE9NRVItMTAwMDAzNTctNjE2NTYwNJIBBk9ubGluZcoBdU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNtIBElNjaG9sYXJseSBKb3VybmFsc5oCB1ByZVBhaWSqAitPUzpFTVMtTWVkaWFMaW5rc1NlcnZpY2UtZ2V0TWVkaWFVcmxGb3JJdGVtygIPQXJ0aWNsZXxGZWF0dXJl0gIBWfICAPoCAVmCAwNXZWKKAxxDSUQ6MjAyNDA1MDQyMTA2MjU2Mzg6MTkwNTM0&_s=XFtuK1tsUfnFIB8LqU8QJNaxOfE%3D
+ER  - 
+
+
+
